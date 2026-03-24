@@ -1,0 +1,209 @@
+Meeting Title: ChefOS Review with Georgie 
+Date: Jul 20
+
+Transcript:
+ 
+Me: Hey, Georgie. Are you? Good.  
+Them: Great. How are you?  
+Me: How have you been?  
+Them: I've been great. Thanks.  
+Me: I think Are you still  
+Them: My dog is here.  
+Me: Nice.  
+Them: She's been a nutter, so just letting you know.  
+Me: Tomas, is that you?  
+Them: Oh, yeah. I'm here.  
+Me: Nice. You holding up over there, bud? Okay. Let  
+Them: I don't know what to be worked every day.  
+Me: me What?  
+Them: I'm not to give up. So bad. It's so bad. Oh my god. What happened? Nothing. It's just I know. I'm just I have no nothing. I have nothing. Oh, well, Do you have your do you have your your night nurse coming back? No. Yeah. I mean, we have everything. I don't understand how, like, I don't know. I don't know. It's just I don't know how long is it gonna like, I don't know how others do it. Like, I've like, at this point, I'd like I can't imagine having a second kid. Like, zero chance. Like, today. Like I know. Asking me is like, no. No way. Like, take this one. Like, ugh. He's trying get into my future and about  
+Me: Yeah. Chandler's wife is  
+Them: eight months. Yeah.  
+Me: pregnant. George, you too. Yeah.  
+Them: Yeah. Dude, you don't even know what you signed up for. Well, I was just in Big Sky with two families. One of them has three kids. One of them has two kids. And I was helping with four month old baby so that the parents could, like, play with their other kids in the day and then hang out in Big Sky at night. And this morning, when I woke up one of the kids yeah. It was it was five children having a fight. And I was like, oh my god. These parents are amazing. And they just you just get used to it. And you kind of learn patience.  
+Me: Cut  
+Them: I mean, but when? When does that happen? Like, that's my question. Because everyone says it's gonna get better. I don't it's not going any better. Well, first three months worse. The first three months is the red zone because the baby is so needy and  
+Me: so  
+Them: cries a lot, and you you you lose so much sleep, and it's really hard to function. And then when they're six months old, they become lot more interactive, and and it's easy it's easier to put them down. And you then that's a kind of time where you'll feel comfortable hiring help for Katie, and then you guys can, like, catch up on sleep. And it all gets better from there. Let's see. Three months, you said? So we're, like, halfway. Three months is what I call the red zone where you're, like, every day is like you're you're a survivor. Yeah. That's pretty much me.  
+Me: Yep.  
+Them: Yeah.  
+Me: Just keeps it My  
+Them: I promise it will change.  
+Me: Yeah. Yep.  
+Them: Hey. It's great. And it's crazy because I have I have my mom. We have you, Georgie. Then we have a night nurse. And I'm dying. Well, I've been part of teams that have twenty four hour care. Like, we're not supposed to be doing it the way that we're doing it. We're supposed to have a community of people around us all doing shifts. Living in caves, the separation The separation. Cave full of people. And good luck. Thankfully, Hailey's sisters and her mother already offered to help out, so we were good there. Yeah. Say yes now. I've never heard anyone complain about having too much help.  
+Me: Yeah. I avoided help the first child, and it was a choice. For sure. We're also only 21, so more energy.  
+Them: Yeah. It's expensive. Yeah.  
+Me: It. Yeah.  
+Them: That's true. Yeah. Maybe. It's like it's like drinking, right, to that age. You wake up, and it's like life's good. You you have two like, north 35, and you die next day.  
+Me: Yeah. I  
+Them: So it's probably the same. This is, like, how I feel. Like, this is how I feel every day. You know?  
+Me: That's okay.  
+Them: It's, like, you probably have, like, bunch of drinks. You woke up, and you're like, let's party again. And I'm like, it just killed me.  
+Me: Two weeks off.  
+Them: Yeah. Exactly. That's how I feel.  
+Me: Yeah.  
+Them: Exactly. Yeah.  
+Me: Can you guys  
+Them: Yeah. Once  
+Me: WhatsApp window? Just to make sure before I  
+Them: yes. Can see it.  
+Me: lapse the these chats. It's fine. So we can keep talking. I was just making sure. It wasn't working for me to type, but now it looks seems fine. So Cool.  
+Them: Cool.  
+Me: We can get into it. If we want. Or Sure.  
+Them: I'm ready.  
+Me: Okay. Okay. Cool. So it's all gonna live in WhatsApp for now. And I know we talked about the group functionality, but that's gonna be something that's coming soon versus launching right now. So just think of this as directly your one to one personal assistant, not something that you can kinda, like, take around and have it message people and shit for you. Just yet. Soon, though. Soon.  
+Them: Cool.  
+Me: Baby steps. So the way we're gonna do it is we're gonna have this is just a test group that we're gonna run through the demo with you and just kinda give you a view of everything. That it can do. And obviously, at any point, you can pretty much say, like, can you help me with? And it'll respond, so you don't have to memorize any of this. I am gonna take, like, automated notes through AI, so I can also send you that.  
+Them: I  
+Me: If that might help. But I think you'll find it's pretty simple. But also powerful. So the we're gonna do for this first run or just in general is we're gonna create a group with all of us here. The only person that will be messaging in it is you. If you need to specifically tell us something, you would use the chef o s  
+Them: Okay.  
+Me: Georgie chat. We'll call this something else. But the reason for it is so that we can just go ahead and see like, what you're messaging the bot and how it's responding. And then if we need to have a conversation about that, we'll just flip back over to our already established group chat. So we kinda just wanna be, silent observers, if you will. So the first thing to do is always just say hello. And it's got a cool little I'll show you the contact card. It's got a cool little, emblem. Or logo. We call it Savora. Or at least we have in the past. And it'll show that it's typing. The first message is always an onboarding message. You only ever have to do this once. It needs a couple of key pieces of information. So it needs preferred name. I'm just gonna do Ryan. Description of business, private chef. Descript email address. I think it really needs anymore, but I'm just gonna put one of my random ones down. Just Email address, where you live, Bozeman. Just for time zone's sake, I'm gonna put your location. My hourly rate $100 So just couple quick easy questions so that it knows your business, what to call you, and then some other things that were just kinda hard baking into the app right now. And, again, it'll show it's typing. It does some processing. It'll get you into the system. And then, again, once we're done with this, we'll put you in the group chat, then we'll kinda just watch alongside. And if you're not sure about any messages when we're you're, like, actually using it, you can always just send them to our group chat first, and we can just kinda help But we prefer if you're just using it contact details as soon as so this is just giving us a response back. What can you me with? Is this following the typical flow? It didn't send the okay. It's fine. So these are the five core things. That it can do. First one is calendar management. It's not gonna send anything to your Apple calendar or Google calendar or anything like that. It's actually just gonna manage its own internal calendar. And then you can also set you can ask it, like, what's on my schedule today? And it'll just print out everything for you. You can also set reminders. So let's say you have something coming up tomorrow and you want to be reminded when you wake up in the morning, you can just say, hey. Remind me about my schedule tomorrow morning. And it'll just automatically, when you wake up, you'll have a text and it'll kinda summarize your day for you, you can kinda keep drilling into it. The client relationship management, that's kind of your standard, like, where you're going to store your client information. Their preferences, any notes, allergies, feedback. Everything like that goes into there. Invoicing, you can generate invoices right now. It doesn't send any link to pay or anything like that. It just sends an actual PDF version of the invoice that you can just forward along you can also organize receipts with that. So if you send in a receipt, it'll also process what you bought. Take out the total, and then basically good to go.  
+Them: Cool.  
+Me: So should make that a little bit easier for you. Web searches. So we added that because I remember the last time we talked, you talked about talked about having kind of, like, a creative space or like, a creative assistant partner where you could look up or, like, kinda chat with it about clients and mixing it up for them, but still based on their preferences. So we kind of built that in today as well. So Great.  
+Them: Great.  
+Me: I think the first place to start is I'd like to add a client. I'm gonna go pull some information. I have a couple, like, mock clients. So this is Simone. She's a retired educator in Austin, Texas who recently moved into a cohous community that values shared meals and sustainability. She values shared meals and yeah. She's deeply interested in plant based eating but doesn't identify as vegan. She enjoys local eggs and goat cheese on occasion. Her meals are usually shared with neighbors, so she appreciates dishes that hold well. In larger portions and reheat beautifully. Samoan avoine soy and prefers lentils, mushrooms, and grains like farro and barley. Protein based, so she's also recovering from minor surgery. And as has asked for anti inflammatory ingredients in light easy to digest dishes for now. This is a little bit more about her preferences. She's nostalgic about southern flavors. And shared her mom's okra stew recipe asking if it could be made vegetarian with the same comfort factor. Her favorite meals, meal so far was roasted carrot harissa bowl with lemon tahini sauce. Which she described as soulful and grounding. Simone keeps a small kitchen garden and loves seeing dishes. That use what she's growing, especially basil mint and cherry tomatoes. She writes handwritten thank you notes and leaves little feedback cards in her fridge, always signed with  
+Them: Oh my god.  
+Me: a heart. That's Yeah.  
+Them: You did chat GPT come up with that?  
+Me: Because 100%. So here's the output of I'd like to add a client it's gonna just give you kind of the framework of what you can share. Really, you can store anything you want. But I think these are kind of the key identifiers, name, email, address, preferences, life events, allergies, shared or suggested recipes, feedback on previous meals, notes, literally just anything you wanna put, pet names, special occasions, etcetera. Hourly rate if it's different from your standard. So if it's person's a 150, 200, whatever, you can  
+Them: Cool.  
+Me: definitely pass that through. So I'm gonna send this as a, like, just so that you can see how it's, like, let's say you're brain dumping. You just wanna, like, type a bio about this person versus do the one through 10 and kind of fill those out, It's going to parse everything that's in there and attach it to the right section. And we'll see an output of that here in a second. K. So they've been added. So it'll just it kind of summarizes and condenses what that person is interested in. So now you have that person in your CRM. So if you're let's say it's a few days later and you're saying you say, I'm at the store. I'm at the store about to go in, and I need to shop for Simone. You me grocery list. Give me a grocery list. So this is kinda back to the creative space or kind of like the creative assistant aspect where now this person has all this context, and now you can interact with that. So based on our preferences and needs, here are some things you could buy, fresh produce, not gonna read everything. Drains, feral barley, protein sources, lentils, dairy eggs, local eggs, goat cheese. Nonperishables, herbs and spices, miscellaneous, And then it'll give a little message. Ensure you consider her preference for using homegrown ingredients and avoid soy based products. You need to revise that list or any more items feel free to ask. So that's just one example of what you can do. So now let's say let's schedule her for tomorrow at And you can see I'm saying her instead of specific what was this person's name? Simone. So it's contextually aware of, like, what you last messaged or talked about. If you were to switch, like, let's say, you wanted to schedule someone else, like, let's say, Thomas was in the CRM, you would just see me to say, need to schedule Thomas for next Friday. At 10PM. And you would just have to reference who you're talking about. Otherwise, it's just gonna be very like, contextually aligned. So it knows we're already talking about Simone. So now we have an event for tomorrow at 11AM central time. Planning plant based meals. So just kind of a focus and preference So it keeps you top of mind of what they care about or are aligned with so you don't always have to go what is her, like, key priorities or preferences? And then you can say, like, let's say, this was way more in the future. You could just say, what's on my schedule? Tomorrow? Now you will get a list of everyone. So, again, if you're managing your bookings or, like, how you're where what house you're going to and when through this, you can very quickly just conversationally ask. And see. Oh, cool. So it kept my old one. From last time, which is cool. So there's two entries on here. Which works. So yeah. And then you can say remind me about Simone tonight. At 8PM. So if you set a reminder, the bot will actually the assistant will actually message you at whatever time you're setting here. So and, again, that's only if you're the way I think about this is like a morning I like the idea of a morning summary, the thing Thomas and I use for tasks. Through managing through, like, this assistant flow. They message us every morning with stuff that we either is past due due today or upcoming.  
+Them: Cool.  
+Me: So nice to have a nice little morning summary.  
+Them: Definitely is, especially if you feel like  
+Me: Definitely. Feel like  
+Them: hungover from baby care.  
+Me: Yeah. Exactly. So okay. So that's that aspect of it. So you can see how you can add clients. You can interact creatively with them. You can also say, like, I need some new recipe ideas for Simone. Can you give me some ideas?  
+Them: Yeah. Do you know what would be really cool is  
+Me: Yeah.  
+Them: if I logged every single time I leave a house, this is what I made for them this week. Please, can you remember so that next week, if I am low on inspiration, you can give me some different ideas so that they're getting a varied diet because otherwise be able to do that already with the existing CRM functionality. You'll just have to try it and see if it works. Yeah. I'll give it a go. Because sometimes people love people have their, like, weekly regulars, like, ride or dies. And then and then the rotating ones, they're, like, I don't know. I'm stumped.  
+Me: Okay.  
+Them: So, yeah, I'll give it a go.  
+Me: Test out and see if we can log what's been made in that week.  
+Them: Because I forget.  
+Me: Yeah. For sure. I mean, it's a lot  
+Them: So much food flows through my hands  
+Me: Yep. So this is just seven suggested rest recipes. They're gonna talk about southern flavors, fresh local ingredients. Etcetera. We can I'm not necessarily checking this for accuracy. I mean, I'm I can see it's like just based on the the buzzwords it's focusing on, it's definitely honing in. The other thing that's cool about this too is we're just giving you, like, the ideas and not, like, actual direct recipe links because you're the chef. Like, if you knew barley and vegetable soup, I'm sure you could either do the research or just throw one of those together without really having to have it set recipe list. Or ingredient list. So there's that aspect. So going back to this the four things. So we've seen calendar management, We've seen the CRM pretty extensively. We've seen the web search to find new information. And also kind of the grocery list I would say that also kind of falls into general assistance, so planning, organizing, all those sorts of of things. So I think the last thing to show off would be invoicing. So let's say you get done a let's grab this. This is obviously a receipt. So we're gonna toss this receipt in there. So let's just say you're leaving. And now you're sending like, you're in your car. You take a picture of the receipt. You send it through. I had to put a period there.  
+Them: Oh my god. I cannot tell you how grateful I am. I I I have, like, a mountain of receipts to get through, I'm dreading it.  
+Me: The one thing that we so we'll make some adjustments whether it's today or first thing tomorrow, and then we'll get you we'll invite you to the group chat, that'll kinda be the indicator to start. Because the one thing we need to do right now is we need to associate the list  
+Them: Well, how about  
+Me: with a client. And write  
+Them: how about we do it with Thomas?  
+Me: okay.  
+Them: And because then he he's on the back end and the front end, and he can kinda be like, as a client, I wish we could build it out. This way. And then me, I could be like, this is how I can build it out that way. And then I can just try it out and just see how it goes.  
+Me: For the the invoicing? Yeah.  
+Them: Yeah.  
+Me: Gotcha.  
+Them: Because then we can track it in real time, and then I kind of, like, wanna protect the privacy of all my other clients. You know?  
+Me: Sure. Sure. This usually spits out a PDF. Did you did you catch  
+Them: Yeah. I already found the error. I'm gonna re hit run it again. And guess whose fault it was? It was a one base. Can I ask how on earth you create an algorithm? Like, how do you what is this made out of? Is it code?  
+Me: Effectively. It's kind of just this one's more so, like a workflow that connects as a connects a bunch of AI together with tools that they can use. In the future, it will evolve into actual like, code on our side. Right now, we're just trying we're just basically connecting a bunch of agents and services together. But yeah. Cool.  
+Them: Cool.  
+Me: It's a bunch of AI that  
+Them: Who invented AI?  
+Me: basically have No clue. Alright. Like, the originator, the proof proliferator right now is OpenAI. And Sam Altman, but, I mean, he's not it's not just an individual contribution, I guess.  
+Them: Doesn't he regret it? He, like, talks about AI like Frankenstein. Talks about the creature.  
+Me: Maybe. Do you want me to run it again? Candler?  
+Them: Give me one second. I'm almost done. I'll I'll rerun it. Like, it'll show up when I'm done. I'm just finishing fixing the bug right now.  
+Me: But that's pretty much everything. For right now. So how do you  
+Them: And  
+Me: Then if I  
+Them: this looks just from an invoicing point of view, I'm like, hallelujah. But I'm yeah. It also it it seems like a great first draft. And then the the only question that I have is will and how will clients be able to interact with this? And is that still on the docket?  
+Me: It is. Yeah. It's just we so for right now, we are gonna use it in this WhatsApp scenario where it's just your private personal assistant one to one. There's no external information it can collect or tap into. When we get approval for this LAR like, regular service. I get we're using a company right now that kinda limits our our feature set. Which is fine because they got us up quickly. When we get full approval, we will be able to do group messaging where you will be able to bring this into group chats  
+Them: An iMessage  
+Me: Here's the example of the invoice. Yes. An iMessage. Correct.  
+Them: What if they have a droid or some other some other phone?  
+Me: It won't work. There's a new standard for Guru messaging called RCS. And it supports that already. So  
+Them: Cool.  
+Me: you can add it to any group chat. You will be able to. So here's the example of the invoice. So it'll just say the date, personal chef service. Grocery receipt, the amount was $20.61, I believe, which is no grocery list is that cheap.  
+Them: No.  
+Me: But and then hourly work, six hours, $100 an hour, $6.26 61. So that's how easy it is to get a  
+Them: Oh my god. Amazing.  
+Me: invoice out. Outside of Yep.  
+Them: Make the invoices prettier in the future. This is just to get it up and running quickly.  
+Me: And then future. Yeah. Exactly. Like, we can throw  
+Them: I  
+Me: or color  
+Them: I think if you could if you could provide  
+Me: If you could provide like,  
+Them: like, 10 templates of how you want the invoice to look or, like, even five and then a few color options. That would be sufficient for whoever's using it to make it look pretty And like a place to put your logo.  
+Me: Yeah. For sure. Do you have one? By the way?  
+Them: Yeah.  
+Me: Okay. Cool. Yeah. Do you have a different you have a specific specific Instagram account. Right? Yeah.  
+Them: Yeah. I have my personal, and then I have my work. But  
+Me: My my I  
+Them: I always just use my personal one.  
+Me: Okay.  
+Them: The work one's pretty stagnant.  
+Me: The work. Gotcha. I think you did you send it to me at some point? I can  
+Them: I can send it to you. I mean,  
+Me: send it to you. I mean, I'm just wondering, like, in terms of colors or logos  
+Them: well, I went with  
+Me: or anything like that. But, yeah, we can Well create So I went I went  
+Them: I went with green because I was like, that's the color of life.  
+Me: with me. Because I was Mhmm.  
+Them: And earth.  
+Me: Life.  
+Them: And I did a bit of research into, like, Pantons,  
+Me: I just I  
+Them: And I and I learned Whole Foods and Starbucks. They will use the same green.  
+Me: That's right.  
+Them: It's so fascinating, like, the psychology of color. But then in the end, I just ended up choosing my own  
+Me: Yeah. I  
+Them: I I just don't know how much that really, really matters. I don't know.  
+Me: pretty We can put a little but we can just clean it up and make it a little bit Like, it'll be the same template every time, but we can at least, like, you know, have it so it looks uniform or has a little bit more than just white on black.  
+Them: No.  
+Me: I don't think that's a large lift at all. No. Okay. So any feedback? Obviously, you're not using it right now. Honestly, I think what would be best is if we let you just mess around with it and message it in mock scenarios before we actually, like, quote, unquote, deploy it for use. We can just get you in that group chat right away.  
+Them: Great.  
+Me: But I think there are definitely some things like I said, we need to test out and see if we can log what's been made in the previous week and carry that over. So if you're saying like, hey. I wanna mix it up, and here's what I made, we just need to make sure we can keep these kinda, like, meal logs, or, like, weekly meal logs in check.  
+Them: Great.  
+Me: So that'll be something all test. We'll get the invoicing. And receipts more shirred up. So that way because right now, the receipts are just if you it's really useful in the sense of you just left the person's house or you're about to, like, clean up. You throw the receipts on the counter, take a picture, parse them. Or take a picture, send them in. And then you wanna generate the invoice on the spot. That's the best scenario this is working. Let's say you have the mountain to go through or you just are, like, in a hurry that day and need to, like, do it on the weekend, we definitely need we don't have any way of directly linking that receipt to a customer, but that's something that can be solved. Fairly quickly. Again. I think it's best if we just get you in there and get and you just go through it like a mock scenario and, like, add Tomas maybe schedule something, set a reminder. All those types of things. And then we'll be  
+Them: Cool.  
+Me: that'll be it'll be in a good place. Cool. Yeah. I mean  
+Them: Yeah. I mean, in a and I usually  
+Me: in  
+Them: invoice people. Like, ideally, it would be once a month, but  
+Me: people, like, ID or Okay.  
+Them: it's very sporadic. So if I could  
+Me: So if basic  
+Them: basically take a photo of the receipt and say, please store this  
+Me: take a basically,  
+Them: for invoicing later this month for Tomasque. I mean, we can try it with Thomas. That's that's what's so great is we can try it in real time with him. And and we can see what, like, this algorithm comes up with.  
+Me: Yep.  
+Them: And then the other thing I just wanna mention  
+Me: As a  
+Them: as a newbie to AI, like, I've been testing Catch EPT and being a little bit provocative with it. Just to see, like,  
+Me: see like, what  
+Them: what like, if it will slip up. And it has made some mistakes.  
+Me: like, And it this And I'm  
+Them: And I'm, like, a little scared. With, like, invoicing and stuff, that AI makes silly mistakes sometimes. But maybe that's just my algorithm I make silly mistakes. Don't know. I, like, asked a few questions about my dog and, like, milestones and things like that, and it got his age completely wrong even though I typed in his birth date. You know, perfectly.  
+Me: For sure. It also  
+Them: I'm just a little concerned  
+Me: when you're talking to some of the models, they actually don't have the current date. So sometimes you have to provide it the date as well. So, like, not only the date he was born, but some of them are, like, frozen in a snapshot from a time. It just depends on there's so many different versions of AI and different tools that they have access to. So the cool thing about this is we have all those tools, kind of the basis covered. So it knows what date it is. It knows what time. Like, it has, like, even those basic things can throw its hallucination off. You have a lot all of that covered. And, like, here's an example too is, like, we have a service that's parsing all of the, totals off the receipts that send it to the AI. So we're kind of separating the concerns. We're not just, like, hey, AI, you do this one you do this thing. And then we kinda just, like, see how well it outputs it. It's like we give it the data to kind of, like, interpret. So services are, like, more so up the chain, but also it can interact and call on those services. I think that's where it it operates better because it knows it has access to certain things versus not. So  
+Them: Okay.  
+Me: Okay. Yeah. That's kind of that's where we're at for right now. Like, like you said, it's this is a very good first draft. And, yeah, I would love to just see how you interact with it and then give us feedback as you go. Like I said, if you get a weird response or something doesn't work, just hop over to I'm just gonna say this chat. To this one, and then like I said, we'll all be in the other one to see it as well, and we can talk about it. But it's just, it'll be easier to do it this way. Then, yeah, when it's time, and we get the full approval approval from the other provider, We will have group messaging. There will be other aspects to it. And it'll definitely be a lot faster.  
+Them: Cool. I'm so excited.  
+Me: As well. So Cool. Thanks.  
+Them: Thank you so much. I can't wait to get  
+Me: So much. Yeah.  
+Them: I can't wait to start using this. I want to see how much time this is gonna save me.  
+Me: Yeah.  
+Them: Probably a lot.  
+Me: The goal is a lot. Because then it Yeah.  
+Them: Yeah.  
+Me: Forever. You know, anyone else in your position or anyone else who just has the owner operator style business. You know? Yeah.  
+Them: Yeah. And I think it's gonna be it's gonna make the cut client's experience so much better because, like, sometimes when I check-in with a client, I'm like, they're so busy. Trying to run their businesses, and then they have to, like, deal with this minor detail of their life. And it takes them, like, ten minutes, fifteen minutes, which is actually quite a long time. So, hopefully, there's no hopefully, this will improve everyone's quality of life  
+Me: Yeah. And we can for sure talk about you know, how that looks, like, and how it helps with the client. But for now, let's we're gonna just get you in this group chat. We'll see how you interact with it. And, again, I think today, the goal is we get you in the group chat, and you just play with it in the full mock scenario. So any situation that you could think, like, that comes to mind at the time That's weird. It says my Can you guys still hear me? Yeah.  
+Them: Yeah.  
+Me: Weird. It said my mic went out for a second. So, yeah, we'll get you in the group chat today, and then we'll end up just clearing everything out of there. And then after these and I'll keep the history. So if, like, you type the description about Tomas, let's just be he'll be the test person you add to the CRM. We'll keep an eye on it. But, yeah, if you have, like, one receipt and then you can say, hey. I worked for six hours, however, you know, let's just see how all that works or even a couple receipts, like, again, today would be, like, the mock test for you. We'll get the other features kind of shirred up, the law the food log, That way, you can go week over week and kind of mix it up. And then sure up the invoicing and the receipts so it matches your kind of usage pattern right now versus sending an invoice right after you're done. K.  
+Them: K.  
+Me: Cool.  
+Them: I'm excited.  
+Me: I'm in Cool. I will add you to the group, and then I'll just you can just say hello and start the flow from there.  
+Them: Brilliant. Thank you so much.  
+Me: Thank so much. Cool. Thanks for your time, and we'll be talking soon. I'm sure. Great.  
+Them: Great. I can't wait.  
+Me: Go away. Thanks, everyone. Have a  
+Them: Have a lovely day.  
+Me: as well.  
+Them: K. 

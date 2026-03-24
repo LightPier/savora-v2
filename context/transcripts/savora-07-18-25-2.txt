@@ -1,0 +1,198 @@
+Meeting Title: AI assistant workflow testing with Tomas for Georgie's personal chef use case
+Date: Jul 18
+
+Transcript:
+ 
+Me: So then it responds. If you ask what it can help with, count. Management, create managements, CRM management, add or update client information, manage client relationships, invoicing, create invoices, web searches, find recipes or trends, client communication, track and store client feedback, keep a record of client reviews on meals for future reference, manage shared recipes, keep track of recipe share with or by clients. What do you wanna do, Tomas? This is your time to drive?  
+Them: Well, who just go through the go through, like, the one because here's what's, I think, what we're gonna do. Right? We just gonna give Georgie and let her run through. And I think our goal here is just to make sure that we kinda catch the obvious either mistakes or, like, you know, the the courts that don't don't work.  
+Me: Yeah.  
+Them: Before she kinda runs through it. Because once she's gonna run through it, then we're gonna have raw feedback sort of from how the user thinks. Then we can actually decide, you know, what to do with that feedback.  
+Me: We actually decide, you know, what to do with that feedback. Yeah. So I think and I'm recording this so we can just do the granola link out. I think on this one, we need to on the the intro message, we need to drop, include the hour hourly rate because that's gonna change by customer. We need to do that when we so, like, if if it sends a customer or, like, is trying to add a customer to the CRM and they don't include the hourly rate, it should always follow-up and ask what the hourly rate is for that customer. I think those should be stored on each client's Unless Georgie because she's bills differently. Right? Like, you're just one you're a $100 an hour. She may bill more to other people or no?  
+Them: I need Mostly not. I think most of the time it's gonna be that.  
+Me: Okay.  
+Them: But she can tell about the different use cases. Right? Because she says, like, sometimes if she is an assistant,  
+Me: For  
+Them: for  
+Me: the chest of white fever, she wants the white  
+Them: a chef at YC or she works at YC for, like, a daily  
+Me: c for like an AUV.  
+Them: you know, rate, then she just has, like, a daily one.  
+Me: Right.  
+Them: But  
+Me: But does she need to do context management for that?  
+Them: yeah.  
+Me: Like, is that a reoccur? I guess we just  
+Them: No.  
+Me: does that in use case need to be captured here?  
+Them: No. No. No. No. That would be, like, more I think, like,  
+Me: That's more like a gig.  
+Them: like a yeah. Exactly. Yeah. Because the way she operates, she kinda operates off of  
+Me: Based Yeah.  
+Them: like, a $100 an hour. Right? And she just, like, picks up lines left and right.  
+Me: Yeah.  
+Them: That's the major  
+Me: There is a there is a spot here when you say I need to add a client to my CRM. So one thing I think after it's after the onboarding message is filled out, maybe we just keep  
+Them: Okay.  
+Me: So let's scratch that and keep the hourly rate because it sounds like that will apply. Here, we need to do the list of what it can help with summarized. So, like, this same list right here of here are some ways I can help assist you. Would be great to send that immediately after they fill out the onboarding message. Because then like, I need to know at this point Like, if there's anything else there's anything else you need, just let me know. That's a little like, we need to guide the user a little bit because we need to kind of create or try to show them what habits exist. So I think we just need to or we can just immediate it's either we give them a summary of this. We just send this message, the the here are some ways I can assist you, like, what what it responds when you ask what can you help me with. Or we either just send that straight up. We send a summary or we just immediately go into let's add your first client.  
+Them: I think I think we like, different steps would probably will operate differently. And I think at this point, we're not gonna get to standardized onboarding process, you know, for that And I think we should not do that. What we should actually  
+Me: Actually try to achieve  
+Them: try to achieve here is that  
+Me: here. Is that George to the  
+Them: Georgie gets to the like, her use cases that she wants to use consistently. Right? Because the onboarding, if you think about, like, a chef chef onboarding, it happens only once.  
+Me: Yes.  
+Them: Right? And so it's almost like we can technically, we can do, like, almost like reforge.  
+Me: For you.  
+Them: Oh, you wanna use this? It's like, oh, okay. Let's get on a call and figure out how we operate. And we can just extract that data, repopulate, you know, the agent would operate, and then done, it works. Because we would eliminate all this as, like, why is he asking me this? What should I answer? You know? And it's like, just like, defers them. From actually using, you know, the the the product. So short term, we would do direct interviews with customers, like, just  
+Me: Just  
+Them: for the first few, we would sit down with them, go call over them, and then maybe by, like, you know, the fifth the fifth and the tenth, we'll say, then we can say, okay. We have a general idea of what they need. Yeah. Yeah. Exactly. Like, we can create a process then. I think now, like, the win is not impressive onboarding. The win is that she actually builds a habit, and we wanna see right, like, are the features she really struggles with? What are the features or, like, actually building the habit for her? Right? That it's, like, delivers the value.  
+Me: Sure. I'm just saying in general, there needs to be more it needs to be a little bit more specific about what it can help with in this post you sending your onboarding to them.  
+Them: That's true. Yes.  
+Me: Just a little bit more information. So instead of sending this whole thing, which I still think this is a great response to what can you help me with as a reminder, We just need to, like let's just do, like, hey. Let's add your first client. Or something. Needs to to to kick off the experience. So assuming it says that, need to add a client to my CRM. Sure. I can help you with that. Can you please provide the following details? Name, email, preferences, life events, allergy, shared or suggested recipes, feedback on previous meals, notes, e g dog name, address, hourly rate, Let me know if there's anything specific you want to include. It just rolls through all that. So let's see. Now so I think  
+Them: Move.  
+Me: the creative space that she was asking for when we originally talked to her exists. Because you can say, like, I'm at the store. And I'm going to cook for Marcus today. Help me create a grocery list I do like that it shows that it's typing.  
+Them: Even though if it if it runs too long, it'll stop, which is silly. But sometimes it doesn't  
+Me: And then it responds with a grocery list that's cooking for Marcus based on his preference and dietary needs. We should focus on pest pescatarian friendly ingredients with an emphasis on high fiber, gut friendly, and gluten free options. As well as items for the specific dishes he mentioned. Here's a suggested grocery list. It just rolls through that. Great. So I think she can ask general questions like that and have a decent amount of success So I think that the coverage for that is there. I need to create an invoice. For Marcus. Okay. So when I'm adding a this is a question I meant to ask yesterday. When I'm adding a receipt, which who does it add it to? So  
+Them: So, unfortunately, right now, receipts are, tied to the what I call them, my architecture document, the customer, aka, in this case, Georgie, They're not tied to a specific client. My thought was is that in a lot of cases, these private chefs are only gonna be cooking for one person a day, especially if, you know, it takes five, six hours. Doing for one person a day. Realistically, the only receipt they uploaded today or the only two or three they uploaded today are for the one client. So short term, they're just not linked to anything. Longer term, I would like to add some form of linking system where we can, like, say, hey. It's this customer.  
+Me: The only thing with that is that we're assuming that she's gonna generate the invoice that day. And that's not how it works. Right? Tomas, she's kind of working on a monthly invoice or by weekly invoice system.  
+Them: Well, now, yes. She's doing that. She's  
+Me: With you three. Can get her to do that? The here's the here's how I would handle it. Or how I think it should be handled. We send this and immediately, it respond well, it it responds image received. Right?  
+Them: Yeah. So right now, the reason why I can't, like, do the linking is because a one base just flat out doesn't support like, using, like, message cap basically. So what I wanted to do was is  
+Me: Right. Instead of sending receipts successfully added,  
+Them: it can be accessed.  
+Me: it should just say who which client is this receipt for?  
+Them: Oh, and then I just have the agent link properly. Like, give the agent, like, access to  
+Me: Yeah.  
+Them: CRM and stuff. Okay. I'm probably be able to do that. Yeah.  
+Me: And then that that way, I can say, I cooked for Marcus for six hours. At the normal rate. And need to generate an invoice with And then that way, if I uploaded those in the morning, like, when I get in my car after I'm shopping or if I'm doing it this is, like, 8PM when I'm at home, you know, kind of decom like, doing some business work or whatever. Now I can just create that invoice.  
+Them: Okay.  
+Me: For them.  
+Them: Yeah. I can I can look into adding that? Like I said, I don't know what do you have a rough time you wanna have a call with Georgie?  
+Me: Do you know when she's available to us?  
+Them: That's her. That's her. Because I don't know what she's  
+Me: Or  
+Them: yeah. Just text her in the group and ask it is usually flexible, but we we don't need to she's also gonna try to make it work.  
+Me: Yeah. Yeah.  
+Them: Right? So just be aware of it. So it's like  
+Me: Yeah.  
+Them: yeah. It's, like, almost, like, just ask, like, over a weekend or something  
+Me: Sick. Something.  
+Them: You know? Just say, like, yeah, maybe she has, like, availability over a weekend, which if she's not working, then we can kinda, like, sit down. And maybe I can even meet her. You know? I can actually sort of, like, sit with her  
+Me: Yeah.  
+Them: and then we go over, like, you know, altogether so we can kinda, like, extract and see and record.  
+Me: One of the other, things that'll happen is we got it seems like the messaging aspect is working. So all of us can be in the group with the bot. We just cannot message. So we can watch her interact with it. To try to learn, if that makes  
+Them: Yeah. It On top of that, now that I have full message history in, like, a database that I can actually, like, look at, which also have, like, a complete idea of the message history through there as well.  
+Me: So this actually worked really well. I said I cooked for Marcus for six hours at the normal rate and need to generate invoice for him, and it immediately parsed the twenty sixty one from this receipt. It added the 600, added them both up directly You have the two line items. It's weird that it made dash did dashes here, but Ford's  
+Them: Yeah. That that one's weird. I haven't seen that before. Holy crap. Alright. I'll be looking. Oh, I know where that's a code issue. I can fix that, like, right now.  
+Me: The notes, we don't let's just focus on getting through the flow. All this is recorded too, so I can give you the I'll put it in Notion.  
+Them: K.  
+Me: The output. And then this notes part has always kind of come off the edge, so maybe we can just  
+Them: Okay.  
+Me: either we could probably just drop it, to be honest. We can just have the invoice date, prior yeah. This is oh, that's fine. And then that way, she can send it to people. So that works. That's cool. And then there's a summary of it as well. The invoice includes Marcus's dietary preferences and a breakdown of services receipts.  
+Them: Yeah. It doesn't need that crap.  
+Me: Yeah. Yeah. We just need to be simple with this. And we can also yeah. That's okay. So that's good. The only other thing would be Marcus recently went to the doctor. Update his I'm saying Marcus recently went to the doctor and found I meant to put found out, but it'll get it. Found out he's allergic to nuts. I need to update that and strictly avoid all tree nuts. So just updating some sort of preference or thing. Show me Marx's Show me Marcus. References There we go. Allergic to all nuts, including tree nuts. Cool. It updated it. Perfect. So the living context is working really well. Cool. Help me find some recipes. Help me find three recipes. That  
+Them: Start.  
+Me: work for Marcus. And this will do a web search, you said, when you trigger the  
+Them: Yeah. I'm using a a third party search API called Tavly.  
+Me: Cool. And then wait. What is the current behavior of the calendar? That's the only reason I've avoided it.  
+Them: It will send a let me double check, but it will should send a Google Calendar invite to your email. I'm checking right now. Yeah. I haven't changed it. It's still Google Calendar.  
+Me: This is awesome. I like too that it's sending really short versions of these things. Like, the cooking technique. Like, a fucking chef doesn't need to know how to cook fish. Like,  
+Them: Oh, yeah. Yeah. Yeah. Yeah. It it knows that it's it's, for a personal chef, so it's, like, giving short summaries of, like, marinate it, cook it, and, like, that's it.  
+Me: Yeah. Yeah. Like, just the the overview, and then they can interpret the rest. That's great. Cool. Those are all sound good. Let's see. Yeah. Let me know. Or I guess we can just  
+Them: Just try it. Like, honestly, just try it.  
+Me: I have to cook for Marcus tomorrow. At 11AM. If I don't put the MST, will it automatically adjust because it knows the time like, where the location is?  
+Them: I don't know. Let's find out.  
+Me: So I'm just saying I have to cook for Marcus tomorrow at 11AM.  
+Them: Only thing I'm still not happy with is how long the response times are. I feel like it should be faster. What did it say? Schedule for 11AM. Here are the details. Yep.  
+Me: I'll check my calendar. I'm not gonna switch sharing screens. I'll just here's yeah. Yep. It added it at 11AM eastern. So maybe we just need to do a time zone adjustment. Based on what they  
+Them: I'll add that to the instructions or, basically, use the user's time zone or something to, like, make the adjustment.  
+Me: Yep. That's fine. Because you we know she's in both which is MST. So in here just because Tomas hasn't seen it. They created this and invited me to it. Cooking session with Marcus. To be confirmed ten minutes before. It just added me as the guest because it I put my email, obviously. But it's at the right time. Location to be confirmed with him, which we could obviously store their address and start adding that. But  
+Them: Oh, yeah. It that already works. If you give it the address, it will assume the  
+Me: Right. But because I did GPT, it's not gonna give me an address.  
+Them: the customer's address. Yep.  
+Me: So makes a ton of sense. Anything else that you wanna see Tomas? I feel like this is pretty solid minus small feedback. Like, that definitely can be fixed seemingly quickly today that whenever she's ready for a call, we we can just have it The only thing that I think would probably be really nice about this is to make it feel like like what makes me feel like this is an assistant is somebody that manages your schedule. Like, that was always, like, the guy who ran drips, he had an executive assistant, and this person  
+Them: That's all she did or he or whatever.  
+Me: managed yeah. Exactly. She managed his schedule and his flights and all this other shit, and it's like, I feel like that's the same thing here. And as much as she's using a calendar app and, yeah, maybe, like, logically, it makes the most sense to integrate with. The  
+Them: 've had an executive assistant for about the first year at go at GoPool, and then he's, this is dumb. I just use GPT now.  
+Me: Yeah. Which is exactly what we're doing. But think it would be better to just do that these are managed inside of this. So, like, just like how this shows up, we just need to store these three things, and then we need to do reminders.  
+Them: Just a cron job.  
+Me: Like, and I think what we do is we run the Quran every minute. And then we just start looking for things to remind. And then when we're creating when she creates these events, we just naturally set couple reminders in the database. So, like, and we can ask her for the preferences, but I would say, like, the night before and the morning  
+Them: Honestly, I wouldn't even do it every minute. I would do it at, like, every fifteen minutes because let's be honest, no one ever scheduled a meeting for, like, 11:02.  
+Me: Sure. I mean, it doesn't I mean, it doesn't cost much to run a cron job.  
+Them: I know. It's just with, with Nathan. Like, you I don't wanna I don't know what like Nathan is not scalable is my point. I don't wanna overload it. Nathan is great for this MVP with our first 10 customers.  
+Me: Probably outside of it that call.  
+Them: Well, we can, but I'm just trying to keep all of our infrastructure in the same thing because it's harder to manage the more we have. I already think we have too much infrastructure for this MVP, but I like  
+Me: Sure.  
+Them: I don't like context switching as much. So short term, I'll just use Nathan like I've been using. Like, I can still make it work. It's fine. And then once we start moving over to code, once we you know,  
+Me: Yeah.  
+Them: have an idea of what we wanna do long term, then, you know, I'll, like, have proper cron stuff. Stuff set up.  
+Me: Cool. So, yeah, let's do every fifteen minutes. And we'll just catch the on the hour and the half hours. And then if anyone's weird and wants to schedule for 11:15, sure. But we'll just get and maybe that's can be something too in the preference is setup. Like, we can always just ask that. I'll through the onboarding, like, a like, when they go to create their first calendar event, we should have a message that asks them, like, when they prefer to be reminded, morning of, night before, whatever. And then we just set some general time based on that. I think that's I think that would be way better. And then that way, she doesn't have to look at a calendar. She wakes up in I would prefer in the morning. Some people maybe the night before, but she wakes up in the morning. She gets a text that says, hey. Don't forget. You're cooking for Marcus today. You know, do you wanna talk about or do you need help planning or, you know, planning your shopping trip or something along those lines? Right? And that's like because one thing Thomas always talks about is, like, we need like, creating a habit also needs to, like, be triggered It's some point. Like, how do you trigger the interaction? And I think we have the ability to send things. Right? Like, we need to find interaction points that we can send out to them to trigger them to use this. Right? And I think that's that's crucial.  
+Them: Short term, to make it easier, I'm just gonna have it directly send the users to their mess like, their phone number. I'm not gonna have them send it in the group chat. But I can look into today. Like, since I'm free pretty much until after the rain stops because I have bunch of shit to do outside. I'm free until, like, 03:00 then. Three or four. I can just spend the rest of the day noodling with that, trying to get the cron job working and everything so we can you know, get it working, I can try to get it working here. Plus, if if I till Sunday, I might be able to get it working before then.  
+Me: What specifically?  
+Them: The cron jobs instead of using Google Calendar.  
+Me: Okay.  
+Them: If have two if I have two days, well, I can probably get it done. And I'll get the and I'll get  
+Me: Okay.  
+Them: Sephora website done too in that time.  
+Me: Yeah. I think I think the cron jobs is very, important because we need to be able to to send stuff or to have triggers that are attached to this. Because, again, we need to it's like a push notification, but much more urgent. You know? Like, you're getting a message from someone now. It's hard to ignore that versus a push notification from an app. So I think that's it. She said Sunday. I can Sunday.  
+Them: I can make morning work as well. Yeah.  
+Me: It would technically yeah. Just see what she says. I have something a family party at four, but outside of that  
+Them: I can I can do stuff in the morning too?  
+Me: Tomas, where are you at with us? Honest, brutal, honest feedback. I mean, you just saw the flow, and everything was fine once we actually hard reset me from the database. You're on mute, by the way.  
+Them: Was the question?  
+Me: Where are you at with this?  
+Them: Yeah. I mean,  
+Me: Are you do you think it's ready to get her  
+Them: no. If we can you know, we can try. Right? Like, why not? Looks like it's not that we're gonna shatter her expectations. Then she does not wanna talk to to us. You know?  
+Me: Mhmm.  
+Them: So it's fine. Or if we wanna have, like, you know, couple days where we get you know, a little bit more going where we we already know it's gonna have to be fixed. That's totally fine too. So it's like, yeah. I'm, like, down for both. Like, whatever you guys think. You know? You like, whatever you prefer. Because she's not gonna go anywhere.  
+Me: Yeah. I think this is a lot more flexible than the stuff we were using. But for the the tasks and reminders, So I think it's a little bit more like, it has a lot more, freedom to interpret what the user wants to do. Obviously, when they do the more complex things like invoicing and calendars, like there can be funky bits there, but I think the context management, like the CRM aspect is pretty much bulletproof. And then the ability to do the creative space stuff she was talking about, like, help me figure out some recipe ideas. Or I'm at the store, I need to shop for this person. I can't remember their preferences. Like, help me out with that. Those things are very solid. So I think just running through the flows of running through the flows of of the invoicing in the calendar and getting all that kinda squared away is really the those are the those are the risk fact or, like, not risk factors, but those are the things I think that needs just a little bit more just needs to be a little bit more solid. But even then, they're not far far off at all. So I think even if we did nothing and it was time to show her Sunday, obviously, the Google Calendar thing, I don't think would really well, she does have a Google Calendar. So maybe we can just have her fucking sign into it on her phone if the cron stuff doesn't work. Like, make sure she knows that it's synced up which it might already be. But if we had to show her this right now, I would still feel confident in passing that over. The only thing that Chandler, you and I should shut test async without him is it working in the group where we can just watch the interactions, and then she can just we're basically just silent observers.  
+Them: Yeah. That's that should that should work as I tested it in a group the other day, and it worked. So if you just wanna add me to a group with it, like, just try it out.  
+Me: Cool.  
+Them: As a  
+Me: Cool. Okay. Let's do that. So, yeah, let's I'll get the the actionables from this meeting. I'll get I have, like, a bunch of stuff on my journal written down here for things to get moved over and to get, like, the actual like, bug board or whatever, like, the Kanban set up for this. We can have a little bit of just tracking, like, what's next and, like, feedback from her and shit like that. So the Notion is one of my priorities for today. But, yeah, I think all the way around, great job. I think this is going to exceed her expectations for sure. And then as we continue to, you know, refine pieces, it'll definitely be crucial in her her workflow. So is there any  
+Them: Alright. Cool.  
+Me: specific feedback you have, Tomas? I know you're in between. Juggling the baby.  
+Them: No. No. It's I think it's it's pretty good. Think we if we get those things that we're talking about, I think we're gonna be ready to have, like, a very truthful sort of a conversation in terms of user feedback. Right, just to see how she interacts. And then what are the steps, you know, after, like I said, how we implement. And I think that that's our goal. Right, at this point. It's just to make sure that we we're getting, like, as close as possible to real you know, user onboarding, but knowing that it's, like, it's still the the most important part is just to see how she responds to it. Right? Now it's, like, It's deadly. It's not yes or no. This is like, oh, okay. I like this, this, and that. This is annoying. Can't be like can we do this way? Then we, like, can regroup.  
+Me: Yep. And the good thing about that is I think she'll be pretty much a prime example of the of the user base. So we just really need to extract from her, and then also we can distribute do some distribution So alright.  
+Them: Cool. Ryan, if you want, like I said, just make a group. We can test that. If this will work, it'll work. I'm, I guess, deliverables that I know about right now for me, I'm gonna attempt to get the cron stuff working as well as I'm going to use some AI tools to make a nice and pretty Savora website. Those are the big two things I think I have to do over the weekend. So  
+Me: Cool. Can we just buy a Nathan subscription online? Is would that sure things up? Like, just  
+Them: Oh,  
+Me: but because don't they have a  
+Them: they have a cloud, but it's so restricted that it's not worth it.  
+Me: okay.  
+Them: Like, you only get, like, so many runs per month, and you can only have so many workflows, and it's sucks, honestly. Like, they're only good as a self hosted tool in my opinion. I honestly, I can probably run it every minute. It's fine. Like,  
+Me: Yeah.  
+Them: it's it's running on, a full blown gaming PC. Like, I'm sure it'll be fine. I'm just  
+Me: Every  
+Them: I've never done it before.  
+Me: every fifteen minutes is fine. Trust me.  
+Them: Okay.  
+Me: Just do it four times an hour. That way we don't stress it out.  
+Them: Yeah. I think short term I think, like, some after we do all the pay I know next week you wanted to sign all the LLC paperwork. I think after we do that, we should get an AWS account set up. And then I'll migrate everything over to, like, an AWS server. So  
+Me: For sure. Yeah. We have AWS account, like, management accounts too. We can always put it under. So  
+Them: I know you still have all the Graffle stuff. So you're if you can sync.  
+Me: Yep. So let's just, let's  
+Them: Was it  
+Me: about what that looks like too because that yeah. I think one aspect of that is it's built in a very general way. Which is great. Outside like, when we make that step to move to AWS, we should yeah. I don't wanna get ahead of anything, but, yeah, let's just try to make Nathan work as long as possible. And try to get a few users on it if you think that's fine.  
+Them: Oh, I think we could handle, like, 50 users with Nate as long as it's on, like is as long as it's in, like, a center of some kind. I think we can handle quite a lot of users with Nathan. The problem is that my Internet out in the middle of bum fuck nowhere is crap. That's the bottleneck right now.  
+Me: Okay. So what? We just need to buy, like, a VM?  
+Them: Yeah. I would go with kind of, like I would go, like, four cores, 16 gigs of RAM, half a terabyte of Like, I'd get a pretty big one.  
+Me: Okay.  
+Them: But that way, we're like, that way, we have, like, tons of headroom. We don't gotta worry about scaling for a while.  
+Me: I have no problem doing that.  
+Them: Basically, is why.  
+Me: Soon if it's easy for you. Like, unless that's gonna yeah.  
+Them: Well, I wanna since I already have my task for the weekend, I think that's  
+Me: I'm Okay.  
+Them: a next week problem. Speaking of next week, when like, do you have are you planning  
+Me: Cool.  
+Them: getting a lot of the LLC paperwork and stuff done, like, near future? Because I assumed that we were gonna do sooner rather than later just to get it out of the way.  
+Me: Yeah. Yeah.  
+Them: Okay. I'm just just making sure.  
+Me: Yep.  
+Them: Alright. Well, I guess we got do you wanna like, you said you're recording the meeting. Can you, like, throw this into an AI summarizer and send it over?  
+Me: Yep.  
+Them: Cool.  
+Me: Cool.  
+Them: Alright. I'm gonna get through it then. I'll talk to you guys later.  
+Me: Great. Yep. Bye. 

@@ -1,0 +1,501 @@
+Meeting Title: Meeting with Georgie on ChefOS
+Date: May 9
+
+Transcript:
+ 
+Me: Okay. Cool. It should can you say something, Thomas, to see if it picks up audio on your end? Yeah. Perfect.  
+Them: Hey, Ryan.  
+Me: Cool. And then I'll just don't really need to take notes. So, yeah, the the goal or I do we need to go over the goal, or do we just roll through what's here and get  
+Them: Yeah. You can summarize.  
+Me: right. So  
+Them: It'll it'll be good.  
+Me: I have a buddy who's a plumber. And they use a CRM in, like, the home services So, like, people who work on your HVAC, plumbing, what have you, and the CRM, like, plumbers especially, they just don't wanna use it. And I feel like the majority of people who actually, like, work with their hands and you know, have creativity and are actually skilled at something beyond just pressing buttons on a keyboard. Don't like to interact with apps. So we were thinking about how can we simplify, like, these techniques technicians out in the field, you know, fixing plumbing issues. And a layer an interaction layer over top of that is kinda what we came to. And why I'm bringing that up is because I think that applies here too. It's like while there is no you know, CRM or back end where there you manage your clients or your households and the invoicing and all the things that go along with that for for chefs, I think it's you know, that's just one portion of it that needs built. I think the more important thing is to actually meet the user where they are and have, you know, assistance or AI follow context and and be where it lives. And that's literally just in text message groups. The whole point of this is to one, you kinda have your direct line to the assistant. That runs Chef OS. Again, the person just imagine a person sitting at the desk waiting for you to just send them something or call them and say, here are the updates, right, the rundown. So you can do it in a more natural, you know, language based way versus trying to learn all the platform specific knowledge of, oh, I have to click this button. And this button, and then that does that. And, like, the education, you know, required for that and, again, this expands with the more complex ones. Like, again, for the plumbing one, it's massive. There's so many toggles and drop downs and menus, and it's like it just doesn't really work for the user. So we kinda prepared this, portal I'll call it, or, like, dashboard light because at the same time, while we all just want to be able to text the person sitting at the desk, you know, the assistant or what have you, We also wanna be able to or at least for me, and maybe this doesn't apply, but I don't wanna feel lost. Like, yeah, I can open up the laptop and actually go into things and see everything, like, the big picture. Right? Like, it's sometimes hard to get that via text message, but the management of it you know, is so much simpler if it can just be action based. So kinda what this is, and we just wanna see, you know, what kind of feedback you have, what things matter or, you know, don't make sense or wouldn't do it that way. All those are things that we wanna hear. So it's important to understand, you know, from the user's purse the potential user perspective, like, what they think or or feel or, you know, if this makes sense to them. So with all that being said, do you have any questions right away or just wanna get into Cool.  
+Them: Let's just get into it.  
+Me: So the time saved this week isn't something that we are gonna wanna keep, so we'll skip over that. Pending invoices, think, is key. Right? Like, one part of your or your job is making sure people pay. Right? Because if they don't pay you, then that's just the end of the cycle. So how many outstanding things you know, what's the total of outstanding invoices that need to be paid, and how many people you know, that is across.  
+Them: And I also  
+Me: So the other thing is go ahead.  
+Them: do do you want do you want me to interrupt you and to kinda make  
+Me: Please. Yeah.  
+Them: to help you add notes as and when you're speaking? Because  
+Me: Sure.  
+Them: pending invoices, there should be two subcategories, which is, time spent and groceries. Because, obviously, that affects your, what a chef can see is their profit. Because we often pay out of pocket for groceries, like, I don't want someone shopping for me. Because I don't I don't like what they choose. So that's something to consider.  
+Me: Sure. For sure. So you you're I see what you're saying. So what's your already sunk  
+Them: Yes.  
+Me: cost, and then what hours are you not being paid for? It's, like, the the the delineation between those two. Okay. That's good to know. What about the active households? Like, I'm not sure like, obviously, you cook for Katie and Tomas, but like, does that fluctuate on a on a monthly basis that  
+Them: Yes.  
+Me: total number of active people? So that is useful.  
+Them: Very much so.  
+Me: Okay.  
+Them: Yes. And I have different clientele in different cities.  
+Me: Sure.  
+Them: So I would say, this is one thing that came up that I didn't talk to Thomas about, which is it would be great if there was some sort of scheduling thing built in because  
+Me: Sure.  
+Them: I tend I tend to prioritize. Like, my VIPs are the ones who are consistent with me because I know that I'm solving a problem that they consistently have. And, gratitude is is, like, very valuable to me. And I also like to create meaningful relationships with my clients. They're not just like random people in my life, you know.  
+Me: Sure.  
+Them: Because cooking is a form of caretaking and that's why I do it.  
+Me: Yeah.  
+Them: For a profession. So  
+Me: Sure.  
+Them: there's v there's my VIP clients who are every week, and then I have my flyby clients who come in and out whether they're, you know, that some people are temporarily and non Montana, you know, like at the YC only during ski season. Or I have families that just in Bozeman that travel a lot. So there's my, like, fly by people. And then I have events. And when I have events, I have to block off days that usually I would be prioritizing for my VIPs or my fly by clients. So, like, it's very, very random. Like, sometimes I'll teach a class at La Cuisine or sometimes I'll do, like, a really big party. So and I tend to kind of just, like, lock them in because they tend to call me like months in advance. And it's just fun to do something a bit different. So I I I tend to kind of give them the spot and then tell whatever client I have that I can move them to a different day or like that and accommodate them somehow. So yeah. And then when I fly when I come to California, I have some solid households that like book me for three or four days in a row. For me to, fill their freezer.  
+Me: Mhmm.  
+Them: So it's kind of it's a eclectic mix. Because people are eclectic.  
+Me: Yeah.  
+Them: It's one thing you learn about feeding people of is how unique everyone is.  
+Me: Gotcha.  
+Them: And and you know, I have a kind of unusual service in Bozeman, Chefs really are in control complete control of how they wanna  
+Me: Sure.  
+Them: price and charge things. But I do by the hour, for households in Bozeman and then if you're gonna do a big dinner in, like, Big Sky, which is a very popular service,  
+Me: Sure.  
+Them: You usually do a flat fee plus groceries. So it's  
+Me: Right.  
+Them: there's so many different ways and like if I'm doing a retreat, like I have four retreats coming up this summer, I do, like, a flat fee for the whole thing plus groceries. So if if if there's if there's many drop downs with basic  
+Me: Gotcha.  
+Them: a myriad of different ways to price things. And also offer discounts, like, I was cooking in for some friends and so I I gave them a discount because they're my friends.  
+Me: Right.  
+Them: I think, Georgi, what we want to do right, instead of giving you a hundred drop down options, we want you to be able just to  
+Me: Yeah.  
+Them: tell your assistant. Cool. Well, I'm I'm like a stereotypical artist personality and I don't understand this world. So I have no idea what what you're capable of doing. So you tell me what you're doing, and that sounds amazing. Well, that's what we're trying to rethink the approach. Right? How to solve the problem because if we think that's why we're thinking more like instead of an app, we're thinking in a system. For you. Right? They're just run and set. Sits on hold, and waits for you to text. And whatever you text,  
+Me: Flip your headphones. You're quiet.  
+Them: they put it in places. Right? It's like a text set Let me Can you hear me better?  
+Me: Yes.  
+Them: Yeah. Yeah. So the basically, we we we wanna like, basically, we want you to be able to hire an assistant that is tech savvy and basically you don't need to think those. You just tell exactly what you just told us Right? I'm working in the Big Sky. I have a flat rate. Plus groceries. I'll let you know once the groceries are done. Right? And I'll just send you, like, a receipt, create an invoice, you know, for those people. Right, that has these payment options or whatever or a standard, like, you know, you know, like, whatever payments you you do. And  
+Me: Yeah.  
+Them: just creates that you can even tell it to send it to them  
+Me: Yep.  
+Them: Right? Or it sends it to you, and so you send it to them, whatever you want. But it's like we're trying to rethink right, how it it can be done. So don't try to think sort of for us how this you know, should look like. Think more of it like just think as an artist too.  
+Me: Yep.  
+Them: Okay. You know, like yeah. Just think of it like, oh, here's the situation. Here's you know, how, like, you know, I would prefer to do it. Or it's like  
+Me: Yeah.  
+Them: here's what's annoying about that. Yeah. Right? And then we we can extract. We can think of us as an assistant to you already. Because, like, I don't understand if this is annoying. Like,  
+Me: Yeah.  
+Them: why do I need to do that? But no. Because we can process all of that. Right? Right. We can rethink Right. Like, that's why I said it's like, I try to build you more expensive solution, but that is so convenient. That you pretty much have like, you know, like a, like a, like I say I have a private chef. You would have a private manager. Right? You're an artist. Manager does everything for you. Thank you. I've been wanting one of those. Yeah. It's just it's just expensive to hire. Right? Because then you need to hire and you need train and so on. But in this case, we could just  
+Me: Yeah. And you need to make sure they stay forever, which computers don't leave. So  
+Them: yeah. Yeah. We don't get sick.  
+Me: but, yeah, like, so one of the things we were talking about is, like, just trying to, like, you're done cooking and now you you know, I imagine you get back in the car, you're like, fuck. That was a long day. Now you just text this number, which is, again, your assistant, invoice I don't know how to say Tomas' last name, so I'm just gonna use mine. Lambacher family, four hours, and here are the receipts. You just attach the receipts like you're sending a photo to anyone at any other phone number, and now you are you get a link back that you can send to the client. That's an invoice, a PDF.  
+Them: Great.  
+Me: On the same side of that is, like, now, okay, you're in a group chat with Tomas and Katie. Right? Now you add in your assistant to the group chat where it's listening and picking up things. And keeping that second brain that, you know, where you need to keep all those preferences and the dietary restrictions. Like, Tomas has this know, acid reflux thing now. Like, you have to remember all that. And, like, the goal would be that  
+Them: Yes.  
+Me: the assistant can be in those chats, absorb that context, and make sure you don't have to, like, always keep that top of mind. You can just go and say, like, remind me again what I need to do for this house, like, when you're in your planning stage. Or it can assist in the planning, you know, if you're, like, I'm slammed today, and I need just to do the the standard service for Tomas's house. Then the same thing is, like, now the assistant can follow-up for you. Hey. I sent you guys an invoice a couple weeks ago. Like, gentle nudge on that. Or you know, again, if the assistant can just say, you know, we have your, your your schedule for Thursday. This is Tuesday when it sends a message, and it goes, any changes or anything new you wanna, you know, incorporate for this service or this you know? It can do that, and then it can get those responses and relay them to you, or it can just do the trigger and say and ask the question, and then you can read the response. And, like, it's gonna store that, but at least you don't have to worry about  
+Them: Great.  
+Me: all these, like, micro interactions that, you know, are probably critical to keep delivering, the level of service you have. So you we take that, like, exhausting part out, and you get to just show up and be creative. If that makes sense.  
+Them: Yeah. That's great. I tell you what else would be really helpful.  
+Me: And then sure.  
+Them: Is, sometimes I I get in a rot.  
+Me: K.  
+Them: Because I'm, like, quite limited. I feel because I'm  
+Me: Mhmm.  
+Them: spoiled because I lived in LA for twenty years, Sometimes I feel a bit limited by the resources in Bozeman. And I know that  
+Me: Mhmm.  
+Them: some ingredients have traveled halfway across the country to get there. And by the time they get there, they're kind of like gross. So I have to sometimes my menu gets really limited because I'm not happy with the quality of the ingredients. So  
+Me: Sure.  
+Them: I get in a rut with what I create and it would be really cool if if this could be connected to some sort of, like, Internet algorithm sort of thing where I'm like, okay. This is the family's limitations with their with their dietary needs. Can you spit out some new new items that I could try to, you know, try to offer something new. These are the family favorites with the certain ingredients like cauliflower and sweet potato, can you send me a new a new recipe that I've not tried before?  
+Me: Yeah. So we have that same thing. So, again, it's Tuesday. You're cooking Thursday. You send a message. Nobody replies. It'll no one from the family replies. Now the assistant messages you privately one on one and says, you know, I sent a you know, the Lambacher family is quiet. Do you need help with, you know, generating a menu for them based on their preferences and things you've cooked in the past. And then you can say yes or no. Like, no. This is a good week. I'm feeling creative. The store is stocked with stuff that know, makes you know, gets my creativity flowing, or no. I need help.  
+Them: Cool.  
+Me: Like, that that's it's interesting that you brought that up without us asking it because that's an assumption of ours. But, again, for creative people, I tend to lean on the side of they want all this out of their process. Like, just stay out of my process, but manage the business for me. So knowing that that's a something that you would use or that occurs you know, it's a it's a great insight.  
+Them: Yes. And another thing, Thomas referred one of his friends to me called Alex, and he has needs that I've never been presented with before.  
+Me: Alex?  
+Them: Which is that he likes  
+Me: Thomas?  
+Them: Alex Miller,  
+Me: Is that him?  
+Them: That's the snack scratch.  
+Me: Oh, it's Dex. Okay. Makes sense then. Go ahead.  
+Them: So he he likes to cook.  
+Me: Sir?  
+Them: If it was just him, he wouldn't need a chef. But his partner his partner is really picky and she doesn't like things that feel like reheated leftovers. Which when you're doing meal prep is an insurmountable problem because that's what you're creating.  
+Me: Yeah.  
+Them: You are creating a bunch of food that's gonna be reheated. The only way you can solve that problem is slightly undercook everything. Like cook it to 80% so that when you heat it up, it's still kind of comes alive. But but it is it is an insurmountable problem. But I did when I was in Ohio, was, like, shopping in this cute little store and I found this awesome like, meal planning deck that was really picturesque and it had a list of Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, what you're gonna be eating every day, And I think it would be really cool to kind of provide the client with some sort of guide that's visual that they can print out and put on the put on fridge or whatever or give to, like, you know, whoever's gonna be serving dinner. Just some direction around how to heat things up and what goes with what. Because I think sometimes I'll I'll make like a bunch of food and I'll make a really good salad dress and then I go there next time and they they didn't touch the salad dressing and they were like, oh, we didn't know we had it even though I left it in the middle of the table kind of thing. So I think some sort of direction  
+Me: Mhmm.  
+Them: because a lot of people who hire private chefs, they don't cook  
+Me: Yeah. Yeah.  
+Them: That's why they're that's why they're doing it because I'm literally buying them time I'm saving them time and and saving them the frustration of having to make a decision. So  
+Me: Sure.  
+Them: if I if if you could do that, that I think would be really useful for the  
+Me: Yeah. Yeah. Yeah. That if your process  
+Them: customer.  
+Me: like, could live inside of you know, the AI. Like, it knows what you're cooking for them. Like, here's a great example. Don't know how much you can see on my screen, but this was a a buddy of mine does, like, the for Thanksgiving, he'll do, like, a takeaway so you don't have to do it, and it's, like, he's a I mean,  
+Them: Oh, yeah. Cool.  
+Me: and it he basically tells you, like, how to load your oven with everything in order and, like, how long the cook time is. And and we just  
+Them: Oh,  
+Me: so last time I did it, I just pulled it out with AI and made it you know, and I just copied it in here. But, yeah, basically, you know, it'll say, like, what you need to do. Slowly heat the risotto in a shallow pan on the stove with two tablespoons of water, you know, or, like, that this one was a little bit more complex because he assumes the person is gonna do a little bit of assembly. But, yeah, that's it's pretty much exactly what you're talking about, and we just pulled it out with AI for him.  
+Them: Cool.  
+Me: So definitely. But yeah.  
+Them: I can send you I'll send you a photo of the meal thing that found just because it's so cute looking.  
+Me: You said it was a meal planning deck?  
+Them: And I think it was like a it's like a weekly it was a piece of paper, a deck. So, like, the same structure repeated on many different pages. And I immediately thought of Alex because I was like, this is a  
+Me: Mhmm. Sure.  
+Them: this is gonna be a challenge. How do I help this family solve that problem when really the service that they need is  
+Me: Right.  
+Them: a daily chef kind of thing. But yeah. So I it's just a like a some kind of hipster looking thing. And I do think that if it's picturesque,  
+Me: Yeah. And the cool thing is is, like,  
+Them: makes a big difference. Because  
+Me: we could generate that. So it's a link that they can click So, like, again, you're done with the service. You text the AI and say, I just did six hours at the Lambacher House. Here's the groceries. Here's what I cooked. You just do some, like, one liners, you know, or, you know, chicken like this, tahini dressing like that. And then now we generate a link that gets sent, and it's just a web portal that looks like this deck, but it's a website. And then they can go in and literally click around, see the reheat instructions, you know, ideas of how to assemble those pieces into a final plate. And then, you know, if we wanted to, we could enable AI there where it's like, hey. I'm trying to reheat this, and I only have an air fryer. Can I still do that? And then the AI could adjust for for that appliance.  
+Them: Yeah. That's great. Amazing. And also some sort of printout, I think, would be cool because I work sometimes I work in houses where they have  
+Me: Yeah.  
+Them: so many staff members. And then a a lot gets lost in translation.  
+Me: Sure. Yeah. If you had the access to print it out, for sure. It would you would just print out the  
+Them: And so if there's something that could be  
+Me: pay the web page, basically. And you'd be good to go. It would come as a PDF, basically.  
+Them: Yeah. Cool.  
+Me: Like an invoice. Okay. Calendar wise, yeah, the calendar wise I don't know why these are flipped. This should be up top, but the it can manage the calendar. Like, you can go in and if you were to change one of these, then it would be very simple to like, send out a text, you know, like, if you're blocking off you know, Thursday through Sunday because you're gonna be traveling and, like, filling a freezer for someone. You could immediately send a text to anyone you know, who falls into those days that you normally service and say like, hey, we need to reschedule. When's the best time? And then if they respond, the assistant just checks your calendar. If you're free, you could have it automatically schedule or confirm with you privately.  
+Them: Thank you  
+Me: Because that's a huge part of it too is  
+Them: These are all the things my brain can just I hate dealing with things like that.  
+Me: yeah.  
+Them: And it's so important.  
+Me: Right.  
+Them: Yeah. And Yeah. And also some sort of, like, if if someone cancels then they get penalized.  
+Me: Sure. Yeah. Like, twenty four hours notice or something.  
+Them: Because sometimes I feel bad punishing Yeah. Sometimes I feel bad because I know people's travel, plans change so much, but just some sort of boundary, around that.  
+Me: I mean, there's an opportunity cost to you if you made plans around them, and they you know, and you said no to other work, then it's there is a fee to that. Right?  
+Them: Yeah. And, also,  
+Me: For sure.  
+Them: yeah, personal time. Making the most of our precious time.  
+Me: So on the invoice side, it's kinda the same thing, just paid and unpaid, pending, the ability to just upload receipts, so selecting a household, how many hours you worked, if you have a in each household, you can configure you can configure like, your hourly for that household. So, like, you know, Tomas, it's a hundred. Maybe someone else, it's, like, 500 an hour, whatever. Like, you can configure that, and the invoice will  
+Them: Mhmm.  
+Me: reflect that. If you wanted to do the receipt uploading, like, you wanted to just say, I'm having a computer day today. I'm gonna create a bunch of invoices. Like, I need to catch up on this. You can also just upload the the pictures of receipts from here. So  
+Them: Awesome. And words would the, the thing you're creating kind of capture the bottom line of the price  
+Me: No. You it'll it should  
+Them: intuitively or would I be typing it in?  
+Me: The goal is to have it captured intuitively. It it can parse receipts pretty simply.  
+Them: Wow. That's so cool.  
+Me: It could also just send a confirmation too, like, if depending on how like, we're gonna be testing it with you. So if you're seeing, like, an inconsistency, we can just turn it into a confirmation you know, mode. I think the the cool  
+Them: Yes. My  
+Me: go ahead.  
+Them: yeah, my my sorry. Sorry about these dogs. My uncle's dogs are small and neutered, and I have a puppy who's massive and not fixed. And they're driving me crazy. My only concern as someone who has no idea about the technology that you guys understand, I would just be concerned as a user that there might be  
+Me: Sure.  
+Them: mistakes now and again because I will totally let down my guard, with and and I would totally lean in and trust the technology, and then I I know that I would miss mistakes.  
+Me: Sure. Then if you if that's your, you know,  
+Them: Cause I I probably wouldn't double check them.  
+Me: if it's more comforting to have confirmation, it's just as easy as okay. You sent a text, attach a bunch of pictures. Like, this is the total from each receipt, and adding these together, here's the grand total. If that's right, say yes. Otherwise, reply with your own math like, your own total. Because I think, yeah, you're right. Like,  
+Them: Cool. Cool.  
+Me: it's always good to have confirmation in there, especially if it's simple. Again, a text message back with the total could respond to that at any point.  
+Them: Yeah.  
+Me: Right? Whenever you get a free second. So definitely  
+Them: I also think I also think, some chefs will add 10% to whatever they bought  
+Me: Yeah.  
+Them: just to kind of cover the fact that they're fronting the money.  
+Me: Yeah. A lot of places do that, you know, when they're  
+Them: So if you can  
+Me: purchasing on behalf of someone.  
+Them: yeah. So at having that available would  
+Me: That's a good  
+Them: I'm sure people would use that.  
+Me: yeah. Because I asked about that, and he said I don't he said I thought he thought it was a pass through. So that is a good thing because, like, yeah, in the settings, you could just have it where you, by default, automatically get that or you automatically just include that 10% upcharge?  
+Them: Yeah. Some people, I don't do that just think it's a little bit extra in Bozeman, but in LA, I did do that.  
+Me: Okay.  
+Them: Because there's so much traffic and it takes forever.  
+Me: Right. So you're, like, trying to comp some of your time or, like, claw some of your time back. For that? Gotcha.  
+Them: Yes. And also also, you're kind of charging them for the fact that you have an expertise in  
+Me: Yeah.  
+Them: choosing good produce. Cause like,  
+Me: There's an art to that.  
+Them: I don't I don't I will never I will never, use Instacart I have a feeling that they gather produce from, like, the back  
+Me: Mhmm.  
+Them: the supermarket where they don't even put it on display. Because I've seen some of the worst produce of my life delivered to me via Instacart. So  
+Me: Yeah.  
+Them: that and I'll bump into chefs at Whole Foods all the time in Bozeman and that they're they're like shopping themselves because it's it's like choosing it's like an artist choosing the best paints that they can find and the best canvas and the best paintbrushes.  
+Me: Right. No. I I hear you. My wife actually went to culinary school, so I never get to pick the produce, unfortunately.  
+Them: Well, lucky you.  
+Me: Yeah. Yeah. I don't unfortunately, don't need this service. It just it comes with marriage. So  
+Them: That's great.  
+Me: Here in the Midwest, it's like a smaller school, so I don't think you would know. But it's it's a  
+Them: Where did she go to culinary school?  
+Me: traditional, like, French trained. So that's her backing. Yep.  
+Them: Cool.  
+Me: But she never like, what she her last year, she was pregnant with our first child, so she never got into the field. So  
+Them: While she's in the field in a more intense  
+Me: yeah. Yeah. Cooking for two kids.  
+Them: way. Motherhood is way more intense than working in a kitchen.  
+Me: For sure.  
+Them: My mom went to culinary school also. That was like my dad's wedding gift to her. She asked for it, and, we benefit me and my brothers benefited from her skills for our entire life.  
+Me: Yeah. I know. I I grew up with, like, hot dogs and, like,  
+Them: So  
+Me: baked beans mixed together. So  
+Them: Gross.  
+Me: she's a vegetarian too, so we don't and she doesn't like the alternative meat. Products, so she's always, you know, challenging herself to make sure she hits, like, the nutrition level without sacrificing. So it's very interesting.  
+Them: Cool. Interesting.  
+Me: But okay. So the other thing that we are thinking about is managing the household. So, like, just at a glance, you could see preferences, you know, life events, hey. We're doing the Whole30, or maybe there's a birthday coming up. All sorts of things. Like, you know, the it could be they're going through a treatment. It could be, you know, Tomas' scenario where they're, you know, actively pregnant, stuff like that. Is a life event. Preferences are more like dietary or allergy based restrictions, dairy free, keto, no nuts. Spicy, no spicy, stuff like that. So you can see all that as a glance.  
+Them: Yeah. It's great.  
+Me: This is more this menu, it looks weird because it's more tuned for sorry. Wrong button. It's more this was, like, built mobile first, so this is what it would look like more on a phone. Hopefully, it's not too hard to see. Actually, you know what I can do? Is I can help out here by going  
+Them: Did you create this by typing in a bunch  
+Me: I just typed in a bunch of, like, regular language and then got this  
+Them: of code?  
+Me: But my, like, hard skill is engineering to an extent. But it the the stuff that will connect it all together and be,  
+Them: Cool.  
+Me: the brain is definitely gonna be more where I interject. This is more like the the interface side of things. So let me see if I can just switch to this. Oh, is that a little bit better in terms of being able to see it now? Okay. Cool.  
+Them: Yeah.  
+Me: So it'll look like, you know, a more traditional app. In this. But, yeah, you have a household. You can search by them. You can add one. At a glance, you can see, like, the next time you're cooking for them. And then here, you can see all the preferences. You can see the thread. So when the assistant is in your group chat with them, it will just automatically parse the people out and show the conversations. You can also send a message as the assistant from this portal.  
+Them: Oh, cool.  
+Me: So, you know, if you wanted to kinda like yeah. Have it come from the assistant, but be like, hey. Time to pay versus it coming directly from you. You know, you kinda get that that leverage. So  
+Them: Yeah.  
+Me: and then we don't have, like, the full so what else we'll be managing? And I can just verbally go over this because there's no display for it. But we were talking about so the whole thing is, like, your job is a lot of context management. Like, the the brain breaking part of it is, like, constantly keeping up with, like you said, Alex Miller. Tough client, but still a good opportunity for you. But how do you manage all that context? Because that's  
+Them: Yes.  
+Me: effectively what it is. The preferences, the timing, the you know, I don't want it to taste like reheated food. Like, that's the that's the part I think you shouldn't have to. You shouldn't have to remember it, but you can go back and talk and reference that data when you're going to plan for them. Right? And that's kind of where  
+Them: Yeah.  
+Me: Thomas was talking about he said you mentioned, like, a creative space where you can go in and actually look at all that and then have a place to kind of, like, we call it rubber ducking in like the engineer, like software engineering world where you are just talking to another person or it's supposed to be to the rubber duck about, like, what you're trying to accomplish or do. But this time, you'll have all that context at the highest. Like, you'll be able to go talk to that information. About Alex. So you don't need to remember it. You can just go and interact with it. And then you can let your creativity flow and it'll help keep you in line with  
+Them: Cool.  
+Me: what the actual, like, static you know, what the like, true or false things are. Like, the preference is allergy, blah blah blah. And I think hold on. I'm trying to find where the sure.  
+Them: I will also just say, in case this is interesting, When I have a new client or someone who's never had a private trust before, there's a learning curve for both people. I'm going to put these dogs in the pound. So, like, they are also learning. Oh, they're also learning how to refine the service.  
+Me: Like, their feed how they give feedback, That's another thing too why we think the assistant being in the group chat is so important. So that way, it's capturing any sort of feedback or things that they say about how, you know, oh, we really like this or this might have been too spicy. I I don't know what you receive on a daily basis, but I'm assuming it's something along those lines. And, yeah, I think how do you think it could how do you think like, you obviously are the the pro in helping them. Right? Because you have to do the onboarding and, like, while they kinda have to stumble through figuring out this new service, how do you usually help them with that? Like, what do you do you do suggestions Do you just say, like, I kinda have this, like, quick cheat sheet where I kinda fill it out or, like, mentally fill it out and then try to cook for them once or, like, does that how does that stumbling through on the the the people who are eating side How does that usually work? Or  
+Them: It's it's it's  
+Me: gotcha.  
+Them: just a creative process where I'm just experimenting the whole time. And then whenever I hit the bull's eye, I I make a, you know, I remember and it becomes like an anchor for me. And then when I miss the the the spot,  
+Me: Mhmm.  
+Them: it's just helpful. For me to learn how to orient myself. And with that, I really do need honest feedback from my clients. Like,  
+Me: Yeah. Do you think it's harder to get honest feedback directly versus  
+Them: And it's so  
+Me: sure.  
+Them: it depends on the client.  
+Me: Yeah.  
+Them: Because some clients are very comfortable with saying a difficult thing in a polite way. And I also track like, when I go to someone's house, like, what they didn't eat. What I'm throwing away. Because I hate throwing away food. It's just like oh, god. It, like, makes me wince on the insides. So feedback is really helpful. And also, you know, you you learn eventually to not take it personally, but I do think it is a learning curve and and people And and I will say when I walk in to work on the first day, it's I'm I really am flying by the suit of my pants.  
+Me: Mhmm.  
+Them: Cause I don't know what equipment they have.  
+Me: Mhmm.  
+Them: And equipment is so important. Like, if someone only has one oven, I can only cook one thing at one time if in the oven. If someone has  
+Me: Right.  
+Them: four ovens, I can be preparing four different foods at once. If someone has huge pots, I basically will make enough to fill the pot and it takes me maybe 10 or 20% more time to make a bigger batch. Which is how you can scale batch cooking to be really affordable for people. Yeah. And also, I don't know what spices they have. So I carry salt with me everywhere I go and then some like  
+Me: Right.  
+Them: basic spices that I use a lot. And I also don't know their appetite size. Because, like, some people eat like birds. They eat nothing. So I make them tiny, tiny little batches and then some people are like black holes, you know.  
+Me: Yeah. Is probably laughing because I'm a black hole.  
+Them: They'll eat anything and they'll eat huge portions  
+Me: So  
+Them: Yeah. And and I'll also say it's so fascinating because some some clients are like really, really, really picky. And you know, they they literally would rather go hungry than eat something that  
+Me: Sure.  
+Them: doesn't feel right. And then some people some people are just like, I need calories. Everything in this is organic. I'm just gonna eat the whole thing and they just like, on autopilot just eat the whole thing. So that it is a bit quirky, and I kind of do I just do my best and try and meet people's needs.  
+Me: Sir?  
+Them: And there is an element of  
+Me: What it?  
+Them: you just not being the right fit for some clients sometimes.  
+Me: What if do you would you trust like, let's say you had a link So, like, one thing that AI has taught are your what's your experience, I guess, with, like, the chatbot AI? Have you ever used it? Has Tomas, like, spun the computer around and showed you? Like, what's  
+Them: Well, actually, Thomas got me into church GPT. I kind of avoid  
+Me: Sure.  
+Them: mainstream things. Just because I I'm very skeptical of, like,  
+Me: Sure.  
+Them: what they what they do to the masses. But, I did download like the fancy one that you have to pay for every month, and I use it a lot now.  
+Me: Sure.  
+Them: Because I used to just I used to be a Google girl, but now I am chat I find chat GPT a lot  
+Me: Sure.  
+Them: more,  
+Me: Right. Yeah. I mean, it learns you. So that's  
+Them: personalized to to like my needs.  
+Me: that's brings me to the exact point I was gonna make is, like, it sounds like onboarding can be a tricky process from understanding their equipment to you know, just, like, really trying to hone in on, like you said, finding that anchor. And one thing that these LLMs do, like, all of us as humans are pretty good at, like, trying to find commonality or the thing like, the similarities. Right? One thing that AI does is it under it's way better at finding, like, the differences. So when you're like, one thing that we found very early when we started using it a couple years ago is that it's very good at asking questions to, like, interview someone. So, like, we literally, one of the first things we had when we talked about this idea I think, in, like, February or January of last year. Because Tomas had a different chef at that time, and we were also thinking about spinning up a business of kind of like trying to compete with Factor Meals or HelloFresh, but with a local fresh, like, chef made delivered to your door version. The same pricing. But  
+Them: Oh,  
+Me: the one thing the two things that we really wanted to focus on was what we called the onboarding agent and the feedback agent. So while yes. Like you said, some clients are like, you know, they're a little bit more confident or, like, blunt or honest which would be great, you know, for you in your position, but some people aren't. You know, maybe they wanna be able to give a little bit, like, softer or you know, not feedback directly, but feedback that influences you. And on the same side of that, we felt that the onboarding process was gonna be super tricky. Like, do you identify all these needs? How do you identify preferences? Like, spending the time to do that as a human it can be tough. And, like, you're basically trying to feel out at that point if this client's gonna work or not. Right? There there's a period of that. And it's like, now we're not gonna let AI a % make that decision, but we could at least get it to ask questions or, like, be a little bit more conversational with these people to understand, like, what to establish a better baseline for you. That would definitely take some more collaboration between the three of us here, but I fully believe from an onboarding and feedback pers perspective, this could absolutely kind of elevate, you know, that side. So that way, again, they don't necessarily give it directly to you or it is in the text conversation. It's just keeping track of that, but it's enriching your whole, you know, client profile. And here's the other thing too is, like,  
+Them: Oh, yeah.  
+Me: people aren't that different.  
+Them: Yeah. Because  
+Me: So, like, the more clients you have and kinda go through, you know what I mean, there's gonna be so many similarities that it picks out that next person you onboard, it's only gonna get better.  
+Them: Yeah.  
+Me: You know, and  
+Them: Yeah. And, you know, some people, they hire literally some people at the waist c will hire a private chef to cook them hot dogs. So don't assume that everyone's gonna be  
+Me: Yeah. Yeah. I love a hot dog.  
+Them: healthy. Some people want the standard American diet.  
+Me: Yeah. Yeah.  
+Them: It's bizarre.  
+Me: But, like, a high class hot dog. Right? It's Wagyu something.  
+Them: That's why that's why like, Scott there's a guy in town in Bozeman called Scott Myers, who's my dear friend, and he's like a unicorn. And he came to Bozeman and and was the head chef at a place called Revelry. And he was doing amazing French cuisine that think he has a Michelin star, and no one was going because people in Bozeman are like, you know, they won't go to a place if it doesn't have hamburgers. So they they asked him to serve hamburgers  
+Me: Yeah. He's like, I'm good on that.  
+Them: and he quit, which I have I have a lot of respect for him for doing that.  
+Me: Sure.  
+Them: Because it is a bit mind numbing. But, yeah, I mean, it will it will it it would be funny if you collected data on people. It would be, like, 23 and me, but, like,  
+Me: Yeah.  
+Them: food preferences. Because people have the strangest tastes.  
+Me: I'm sure. And that would be again, I think AI can really excel in that department. Those aren't necessarily, like, the first features. That we would turn on, but it's definitely something I think applies to the business and sounds like it would help. So  
+Them: Yeah. And I spoke to Thomas about how you can make a profit out of advertising. Because I really think that there is a very big opportunity there.  
+Me: For sure.  
+Them: Because, if you if you advertise like,  
+Me: Mhmm.  
+Them: getting a lecrosse with a discount code associated with this app. Then what you're doing is, like, I have favorite pieces of equipment that I think are the best. Like, I have a favorite blender. I have a favorite food processor. And when clients are like, oh, I don't have that. Can you send me the link?  
+Me: Oh, interesting.  
+Them: To the one that you like? Oh, my god. Then and I'm like and I'm like, okay. Yeah. Sure. But if if they could basically and also, like I have a client who's building a house right now and they sat me down with the blueprints of the house. And they were like, what equipment should we buy and where should we put it? So, like, it is a really amazing there's so there's so many opportunities to to solve a legitimate problem for people and help quality of life by, connecting them with really good equipment, because I don't think sometimes people don't realize this, but, like,  
+Me: Yeah.  
+Them: cooking is like a a science.  
+Me: For sure.  
+Them: And then all of the things we use are like our tools. So, like, I have my favorite knives,  
+Me: I'm not allowed to touch those in my household.  
+Them: Even, like, being able to yeah. No. It's like  
+Me: Yeah.  
+Them: yeah. It's a violation. You should always ask permission.  
+Me: Yeah.  
+Them: But, like, even in good steak nights, steak nights or, like, really good camping  
+Me: Sure.  
+Them: plates, and cups and things like that, or, like, a really, really good, like, favorite blender or do you want to fill your kitchen with cooking books? Here are all my favorite cooking books kinda thing.  
+Me: Yeah. You could definitely get a percentage on all that if you wanted to. I think  
+Them: Think that's a really  
+Me: the way that that would work is, like, you just upload your preferred you know, preferred equipment we'll call it. And then if if you know, the client or you can, like, feed that in, then you they can just go and, like, check out that wish list quickly. Right? Like, yep. This will be $10, and it's or, you know, $5, whatever it is, and here's all the stuff you're getting. Like, let's replace the shit that you currently have, you know, the toaster that doesn't even work and the blender that's  
+Them: Yeah.  
+Me: sucks with this. And now when I'm coming, I can be more efficient for you. And when I'm not here, you get a you get a a little bit better  
+Them: A %.  
+Me: quality, you know, closer to my quality, like, 10% closer. That's an interesting thing.  
+Them: Yeah. And and, also, you could  
+Me: Yeah.  
+Them: you could have sort of affiliate links to make a profit  
+Me: Anything on Amazon, you can yeah. Anything on Amazon, you can do an  
+Them: for the app, like,  
+Me: affiliate link with. Outside of that, it would probably just be, like, an if you could get an upcharge you know, added to it.  
+Them: Yeah. And also also connecting chefs to cause it's really important to have insurance. You don't wanna If you burn down your client's house, it's  
+Me: Right. For sure.  
+Them: that's not a good situation to be in. So if you can kind of connect chefs. I've never done that. If you can connect chefs to really great insurance,  
+Me: Mhmm.  
+Them: policies, that's really helpful. And, like, further education. Like, I I studied to be a health coach. I didn't go to college because I can't sit in a chair for eight hours, and I'm not an auditory learner. And yeah. And I I wanted to study  
+Me: Right.  
+Them: and I know that you don't need a three year degree for that. So I went to this very popular school that has churned out like a lot of very successful, like, wellness people. It's called IIN, Institute of Integrative Nutrition. And they basically are trying to flog so many courses because it's such a sweet education. It was really, really, really, really good. And they do tons of discounts and things like that. And when you have qualifications like that as a chef, because not all chefs have studied anything. Some of them have just worked in their kitchen and learned that way, you know. So you could there's, like, another avenue to make a profit for the app. Where you partner where the app where the assistant sorry. Partners with  
+Me: For sure. What do you need help with?  
+Them: with enterprise enterprises and gets, like, some sort of commission or something. And you're also helping to enrich the chef's profession by giving them extra skills.  
+Me: For sure. Okay. Yeah. Like, additional learning or resources like that.  
+Them: Yeah. Like, I wouldn't hire a chef that hadn't studied nutrition.  
+Me: For sure. Yeah. I mean, at that point yeah.  
+Them: And I don't care if a chef has gone to culinary school or not.  
+Me: Put that in your room.  
+Them: Because you can learn a lot of really bad habits and  
+Me: Just tell mom not to look and put it in your room.  
+Them: in a a educational systems. Like, I would rather someone who's had more practice  
+Me: In the closet. For sure. Are there any is there anything else that jumps out at you after seeing this or just having this conversation?  
+Them: I think make it look cool and funky.  
+Me: Gotcha. Like,  
+Them: Give a recognizable style. There's this girl in New York who you should look up. She's called God, what is her last name? Her full name her first name is Molly. Let's have a look. Molly oh, I can't remember. I'll have to send it to Thomas, but she worked she was, like, grinding away for Bon Appetit in New York. Like, slaving away, really, really gifted, She was basically what made following Bon Appetit rewarding because she has a gift. Then the pandemic rolled by and she left LA with her husband and moved Oh, shoot. She left New York with her husband and moved to LA. And she went off on her own and she really branded herself in a way that's very recognizable.  
+Me: Sure.  
+Them: Like, she chose a very distinct blue and it runs through all of her marketing. And I just think that it looks cool because there's something funky about cooking. And it's fun. And you're like playing all day long. It's not like sometimes I think it can be seen as like utilitarian or like, you know, the help or something. But it's actually really quite fun. And I think if you make it look groovy, then everyone's gonna like get into a certain mood.  
+Me: Yeah.  
+Them: That's, like, positive. You know? Like, cat GPT is really, really utilitarian.  
+Me: For sure. For sure.  
+Them: Looking looking. I mean, it's very, very recognizable. Like, I think if you chose a really bold color, and made the typeface really cool looking. Then it could be, you know, visual. Because you eat with your eyes first and chefs are all creative. Like, we like looking at pretty things.  
+Me: For sure. That's good to know. Yeah. I mean, the goal would be to have as little interaction with the website as possible. Right? But, yeah, when you do come there, it should be inviting or it should be unique. You know, to the space, not just the the same old SaaS like, software as a service company.  
+Them: Yeah. Yeah. I always think it's a shame when someone doesn't spend time on that because it's something that means a lot to me and it's it it really is like I will judge a brand and like how much time they spent on that.  
+Me: For sure.  
+Them: And also, there is there is a there is an element. I don't know if you know this, but is an element to color therapy. Where, like, you look at Whole Foods, the green that they chose is the same green as Starbucks. There is like a psychological component to the Panton  
+Me: Yeah. Yep.  
+Them: Is it pantone? That brands choose? Like, purple they say you should never paint a kitchen blue. Because there's no blue food other than blueberries. And so it kind of inhibits your appetite.  
+Me: Maybe I should paint my kitchen blue then.  
+Them: And  
+Me: Right.  
+Them: yeah, unlike you shouldn't paint a hotel purple, because purple makes people depressed and people go to like commit suicide in hotels. And then yellow makes people really happy, so you would paint like a psychiatric hospital.  
+Me: Mhmm.  
+Them: Yellow to lift people's spirits. So I would just say like that's a fun little piece of research that you could do and to kind of take a walk on the wild side.  
+Me: For sure.  
+Them: And, like, make it really attractive.  
+Me: Yeah. We worked with a company before that is very good at that. I I feel like offloading that to the experts is definitely the better  
+Them: Oh, yeah.  
+Me: way. And when we get to that step, maybe we'll even bring you in as a for a little consulting to help share know, insight because what you just said would definitely resonate with them, and they would be able to, you know, digest that and turn it into something unique. Whereas I'm just like, wish I could do that. You know, like, my creativity is is it's, like, more in, like, logic. So, like, I I % agree with you, and I get those feelings and emotions when I see those colors. Like, they definitely affect me in that way, but being able to, like, predict that or you know, like, build something that looks like that. It just that's where I fall short. So  
+Them: Oh my god. It takes forever.  
+Me: yeah. It's definitely paralyzing in the sense of  
+Them: I'm I'm also a creative and I can't even do that. Like, I studied interior design and I was, this is too much. I can't make all these decisions. If you present me with something,  
+Me: Right.  
+Them: I'll say yes or no. And I do think it's good to get many people's opinions on that.  
+Me: For sure.  
+Them: Because beauty's in the eye of the bottle. But I also have a few friends who are just naturally really good at that kind of stuff. Who I would be happy to share  
+Me: Sure.  
+Them: whatever you come up with and I can kinda double check.  
+Me: And are they adjacent and, like, they do something  
+Them: With them.  
+Me: culinary related, or are they just completely separate of that?  
+Them: No. They're just naturally cool and creative. Like, I have one girl who was my neighbor in Venice Beach and, she she's just everything she touches is like turns to gold. And she her her husband owns like a marketing  
+Me: Mhmm.  
+Them: or an advertising agency or something. So together, they they just kind of know what what the masses  
+Me: Sir,  
+Them: how the masses move. Rather than making a personal opinion or a personal choice on based on what you think looks good.  
+Me: For sure.  
+Them: Yeah. So there are some people out there who just know branding.  
+Me: For sure. Definitely not me, though.  
+Them: Neither me.  
+Me: I'm a I'm a big I'm more, like, I stop at the naming. Like, I'm I'm very big about how things are named and, like, how it's perceived to be pronounced and, like, making sure the domain aligns with that, like, the website. But outside of that, yeah, like, colors and logo and, like, the feeling of it is all it just drifts away. For me. So  
+Them: What are you thinking of calling this app?  
+Me: we're just calling it Chef OS internally. Have no clue. We do have a we had a name we had picked out when we were thinking about, like, operating it ourselves. So we would have the chef, and we were gonna try to do, like,  
+Them: Okay.  
+Me: the math based on, like, again, plates to kind of replace, like, a factor meal or know, like a Blue Apron. And we were gonna call that Savora, s a v o r a. But even that's, like, just a name that we've pulled out from nowhere. Yep.  
+Them: Well, there's a there's a supermarket in LA called Errol One, and it's hilarious because it sounds like a mythical land. And when you go there, you're like, I'm in a mythical land.  
+Me: Yeah. Where everything is a thousand times more expensive.  
+Them: I literally went shopping there yesterday and  
+Me: Wow.  
+Them: spent $500 and only got three bags full of stuff. And my smoothie was $20.  
+Me: That's great.  
+Them: Hilarious.  
+Me: Oh, for sure.  
+Them: Yeah. But you know what? They're busy. And and, whenever I go there I feel safe because I read the I read the ingredient list on pretty much everything just to double check. And there's no there's never any crap.  
+Me: So you're like it less of a concern. That makes sense.  
+Them: Yeah. I mean, they pride themselves on that. It's like the bougiest food. Like, their their hot bar their hot bar is like  
+Me: Wow.  
+Them: what I try to make for clients.  
+Me: So maybe we just go in and take a bunch of pictures and then just copy that.  
+Them: To that standard. Well, I literally can do that  
+Me: Mean, you don't mind.  
+Them: today because I'm gonna go there. I mean, it is a little bit oh no, happily do so. Like, it's it's like I I I got a bit of intel Like, I know who they have creating their menus because the guys who sharpen my knives are friends with some of the chefs and they're all Michelin star chefs.  
+Me: Wow.  
+Them: In the back, you know, creating the menus and they're getting handsomely paid at because everyone is not going anywhere. They're like opening locations left, right and center and they're always full. Because also if you think about it,  
+Me: Mhmm.  
+Them: LA is a big tourist attraction and so everyone has now become a tourist. A thing that tourists go and do. Because it's like so otherworldly and like, extra. But yeah. So they have they have amazing chefs working in the back. And, you know, they're they're like their keto stuff is made with organic flour and art and  
+Me: For sure.  
+Them: avocado oil and things like that. Like, they go above and beyond.  
+Me: That'd be interesting just to see, you know, That's definitely more, like, market research, I feel like, for the physic like, the actual operational side that we would maybe try to wanna wanna run? Because, like, there are some ZIP codes where I'm at. I live in Ohio, which is so far away. We're, like, basically, the East Coast without being on the coast. We're, like, the next state in. But there are some ZIP codes around here that definitely could support private chefs or, a service like I was explaining. So  
+Them: Oh, yeah. It would be really fun, if like, I love travelling with clients. At Lambda Christmas. Hey, I need to put these dogs away. Yeah. It would be really fun if I could be connected to people that find me via  
+Me: Yeah. For sure.  
+Them: like, the app, you know?  
+Me: And then traveling to them or what have you. That that yeah. We definitely understand the importance of that. Yeah. Like,  
+Them: Because I can mate. I can make enough food for a few months in, like, a few days.  
+Me: he told me about you do, like, three or four days, and it's, like, a set rate, and then  
+Them: Like, the girls are  
+Me: they have ninety days of food or what have you. Sure.  
+Them: Yeah. Like, I just it depends on the rate that they eat it. Because the the the food that's freezable is, you can't eat soup twice a day every day for three months. You'll you'll, like, lose your mind. So it's it's basically a supplemental drop of stuff that they can, you know, cook a steak with and  
+Me: Sure.  
+Them: put it on the side kind of thing. But, like, I took it for her in December, I filled her freezer. And when I went there this weekend, there was  
+Me: Gotcha.  
+Them: two tubs left. They'd eaten everything else. And yeah. And you're really solving a problem there because  
+Me: For sure.  
+Them: people really wanna eat good food. And if you're in a food desert, then it's really frustrating, it can get kinda depressing.  
+Me: For sure.  
+Them: I kinda feel like even Bozeman is a food desert in some ways.  
+Me: Okay. I do have something at four.  
+Them: Don't eat that.  
+Me: I also wanna just be respectful of everyone's time. But I do really appreciate you jumping on last minute or on short notice because this is incredibly helpful for us.  
+Them: Correct? No worries. I'm happy to help however I can.  
+Me: Where are you originally from, if you don't mind me asking? Okay.  
+Them: I'm from London. Like, legitimate. I was born in  
+Me: Gotcha. That's awesome.  
+Them: London, and I grew up in London. And then I lived in LA for like full time eleven years, but  
+Me: Gotcha. Is that, like, Greater London or, like, the act like, the city?  
+Them: pretty much twenty. Legitimate. Like, whenever I tell America Americans I'm from London, they're like, London proper? And I and I have to say, there's no such thing as London proper.  
+Me: Gotcha.  
+Them: You're either from London or you're or you ain't. Like, I'm from West London.  
+Me: You're from Liverpool. Everyone else is from Liverpool. That's Okay.  
+Them: I'm from I'm from Notting Hill.  
+Me: So who's your EPL team?  
+Them: The posh posh area. Yeah.  
+Me: Yeah. Yeah.  
+Them: Who's my who's my football team?  
+Me: Oh, wow. You're a Cole Cole Palmer?  
+Them: Chelsea. I have I have five younger brothers and and, we're  
+Me: Oh, nice.  
+Them: a big Chelsea household apart from one rebel without a cause who chose Arsenal.  
+Me: Yeah. You should check on them. They just got  
+Them: And he doesn't even like football.  
+Me: beat in the Champions League, so you should definitely check on him.  
+Them: Well, you know, I love football. I have no idea about the rules of the game. I just like screaming at  
+Me: Yeah. That's that's really the part that matters. Let's be honest.  
+Them: the TV with a bunch of hooligans.  
+Me: Awesome. Well, it was great meeting you. Next time, I'm in Bozeman with Tomas. We run into each other. Otherwise, I'm sure we'll have more conversations from here. But it was a great  
+Them: Yes. I'm gonna send Thomas, a bunch of images and and things about what we talked about so that you can have a look.  
+Me: For sure.  
+Them: Georgia, I'll create a group chat. So then anything But I did. Related to sort of what the the product or the the business  
+Me: Yep.  
+Them: side of things. We could just you you can constantly bomb us with, like, ideas and screenshots, links, whatever  
+Me: Yeah. I mean, this is gonna be our lives for the next sixty days or  
+Them: comes to your mind, just dump it there. Right.  
+Me: so to get it out the door in a really good state. So and anything you can add or you wanna add or random thoughts or people, anything.  
+Them: Cool. Okay.  
+Me: Just dump it in there.  
+Them: Great. Well, I'm I'm literally gonna head to Area 1 in about an hour, so I'll  
+Me: Cool. I'm excited to see  
+Them: basically expect your phone to blow up. Is it is it better WhatsApp or iMessage?  
+Me: you. For me either. Yeah. I'm I'm a big WhatsApp.  
+Them: For everyone? You know, I think WhatsApp.  
+Me: It's just I can use it on my computer, so it's a little bit easier for me to always see it.  
+Them: Okay. Yeah. What's  
+Me: Cool.  
+Them: Well, yeah. I think WhatsApp will be good.  
+Me: Sweet. Thanks again, and it was great meeting you.  
+Them: I'll send it around. Cool.  
+Me: And talk soon.  
+Them: Yeah. You too.  
+Me: Sweet. Thanks.  
+Them: Okay. Thanks. 

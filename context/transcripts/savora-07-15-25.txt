@@ -1,0 +1,367 @@
+Meeting Title: AI assistant strategy for private chef CRM and workflow integration
+Date: Jul 15
+
+Transcript:
+ 
+Me: Can you say something real quick?  
+Them: Yeah. Yeah. What's up? Can you hear me okay? Yep. Cool.  
+Me: Yeah. Every time the I mean, dude, AirPods are truly they're great but they are not great when you have two devices next to each other. Like, I just need to throw my phone in a fairway Faraday cage or whatever.  
+Them: I've had no issues with my, my I don't have AirPods, but I I have Beats. AirPods, which are owned by Apple. So, like, all of the same integration  
+Me: Right. They still have the  
+Them: that works with the AirPods works with the Beats.  
+Me: h chip or whatever the the I they have some proprietary  
+Them: They have the same hardware as the AirPods, but they're, like,  
+Me: Oh, okay.  
+Them: the Beats are advertised to both Android and Apple users. It's weird. That's, like, the only difference is that, like, Beats just doesn't differentiate because I used to be I used to have beats when I had a pixel. They worked just as well with the Pixel as they did with my MacBook and my iPhone. So you know what?  
+Me: Gotcha.  
+Them: That's cool. But, anyway,  
+Me: I love beats.  
+Them: I've had an I my I can literally click a like, I just I have like, I have, say, hooked to my phone. Walk up to my MacBook. I hit the sound icon. I click the beats, and and that's all I have to do.  
+Me: How it's supposed to work with the AirPods. It does not work, though. Like, it always tries to force it back to my phone. And I like I'll specifically have to close YouTube, Spotify even if they're not actively playing because it will pull it back. I'm also on iOS 18.7 beta or beta one, I think. So some  
+Them: I don't use the beta stuff because stability is more important to me because it's real because it's my my opinion is it's my livelihood.  
+Me: True.  
+Them: It's how I make I pay the bills, so I don't like risking it, especially since,  
+Me: Yeah.  
+Them: my development workflow is not dependent upon, you know, edge features that are coming soon or whatever. Like, my I'm a web dev at at heart. Like, that's most of what I do. So  
+Me: True. Gotcha. That makes sense. I think to start this conversation, Tomas and I talked and we were just trying to get to the point of what is the first test of this and, like, where what what do we have the ability to do now And I think the core insight is basically, if you had unlimited funds, you'd hire someone else to solve every problem. Money doesn't fix the problem, but people do. So now you take today anything that's digital or can be done online. That someone that you would hire can now be AI. And AI shows up in one channel that we're all already used to, which is chat. And any of the applications, WhatsApp, Telegram, Discord, SMS, all could be the and kind of product. And what that means is outsourcing kinda goes mainstream. So the ideal hire is now an AI agent. So there's no more onboarding, no learning curve. You just text it, and it gets the job done. And that's where the magic on our end of kind of already integrating with these things almost in the way that Nathan does, but, like, having the ability to it's almost like what Nathan is gonna introduce in a way where you can just prompt AI and it builds the workflow. That is kind of the the gist of how I see this working when it's not just for a chef. So chat definitely feels like it's the new like, that's kind of where everything is going to go. Like, again, the apps are gonna cease to exist, and services are going to be kind of the primary way we interact, and we're gonna interact with those services via just plain text. Where the opportunity sits for us is anything physical won't change until, like, really good robots arrive. I don't think a robot private chef is on the horizon, unfortunately, I wish it was.  
+Them: Not for a couple decades, unfortunately. Yeah.  
+Me: Yeah. Because then it would be a lot easier to get one. So single operator physical world businesses, plumbers, landscapes, private chests, event planners, they all live in on their phone. They hate apps. Zero tech stack because they don't really understand technology for the most part. Like, they're, like, semi tech illiterate, which is great for us. And we also are gonna try to  
+Them: I can think of, like, four or five businesses just off the top of my head that I've interacted with recently where this is, like, how they work.  
+Me: Mhmm.  
+Them: Like, there's no and even, like, my my wife's parents who run the food trucks and food trailers, they, like, all of their contacts are just literally in their contacts list on their phone, and, like, that's it. They don't have a CRM. They don't have yeah. It's all just a contact list on their phone or a list of emails written down on a piece of paper.  
+Me: Exactly.  
+Them: Like,  
+Me: Exactly. I think the biggest thing with that is there we know there's a lot of there's a lot of potential there, and we know where they're interacting. And business lives. If we can identify those fields, we can just rinse and repeat a effectively this thing. So the the way the product kinda shapes up is the AI assistant in chat with an invisible CRM layer behind it. And that's kind of what builds this kind of experience around it. And what I wanna be clear about there is I think what's what's crucial is understanding that we're kinda building two products and we're making a combination of both of those products for the private chef because they don't have any CRM products directly marketed to private chefs. They have one that's sort of for event caterers. But it's I've talked to people that have used it, and they are just like, first of all, it's expensive and extremely complicated. Like, you need a full blown person at the desk, like a a manager business operations style employee, for that even to be a thought in their business. A lot of them just do you know, documents or notes on their phone They take calls, obviously, but there's no, like, CRM. There's no calling. Like, that's the other thing too is, like, the invisible CRM layer is interesting because they need kind of a different style of interaction. And the cool thing about this is no one none of the big guys are serving to these people. So when you were bringing up yesterday, like, oh, there's a bunch of CRMs. Like, that are AI native. 100%. There's gonna continue to be more. Like, if you look at y c, for example, there's ton of people who pitch that effectively and got through and got YC funding. But that's not like, what we're we just want that to be something that's more behind the scenes where the assistant is kind of the main cell. So we're not selling them on the value props of a CRM. They're getting the function of the CRM with all the value props of the AI assistant.  
+Them: The CRM is a feature. It's not the complete prod product.  
+Me: Correct. But for the chefs, we're going to sell it as an assistant with a CRM combined. So like it's gonna be melded together. And that's the cool thing here is, like, we see opportunities in the sense of there are definitely industries where it's a 100% better just to build a really good assistant that plugs into Housecall Pro, which is the home services. It's ServiceTitan and Housecall Pro are the two in home services. So if I reference that, it's just their CRMs, essentially. It would be so much better for us to integrate with those two than try to go take market share from them. Because this sell on top of it is a 100% There's no switching costs, and it's super sticky for us to make their user experience better because one of the problems that these businesses consistently have is they have plumbers or HVAC installers who are very you know, tech illiterate or just don't wanna deal with the app because it sucks or whatever. And now we just give them this new interaction point that is literally just a text message and all that. The thing to make that work in that industry, there's one caveat, is we need a companion app that can track data look the data location because a huge part of that process is them getting timely alerts based on when they arrive. Or depart from a location. So the way it's working right now, it's somewhat ghetto but I have it set up for this plumbing company in Cleveland. And they just basically get a text in the morning. And then I just basically add three hours, and I'll send a text to see if they're done with the job. And then if they say yes, then I'll just add I build in some little timing there. It's between forty five and ninety minutes depending on if it's around lunch. And then it'll text them again about their second job. So what would be really nice there is if we had geo data. So if we just had an app they downloaded, that's just sending us you know, data off the device. That would be so much better. Right? But we're not gonna attack that vertical next. I think focusing on the chefs and keeping it laser focused on that. I'm fine with you building it in a general aspect. Regardless because why double back and do more work when you already know, like, we are both gonna go horizontal And in one of these verticals, we are gonna go vertical as well. So horizontal meaning private chefs, plumbers, real estate agents, Really, real estate agents is probably next. Because I have a very good in with Keller Williams. So I can definitely sell to their whole company very quickly. So that would be stretching across horizontally, and then we're gonna go deep know, in one of these. The chef we can a 100% capture really good ARR because no one's marketing to them. And we have a lady who's kind of like an influencer or looks at as an influencer in this micro niche. And she can just say what she's using. And then pretty much we're good as gold. Like, she ran a cooking school essentially. So very good credentials. Partners wise for that. So that's kind of the general gist. So, like, again,  
+Them: Cool.  
+Me: I'm not opposed to it being general built. But it needs to just be the only part where I feel like in the future that fall like, falls down a little bit. But, again, I could just be wrong because it's I don't have this, like, depth of knowledge that you do in AI or working with it. It's like, when we need to send reminders or scheduling or anything like that. So, like, for the chef the evolution of that. And I'll show you the user stories and stuff in a minute. Is the scheduling aspect. So if she texts and says, need to move this family, to this day or whatever, am I open? It checks. It set responds yes. Would you like me to schedule that? Yes. Cool. All of that's pretty simple. Like, I think a scheduling flow is pretty consistent and easy across the board. And like I said, I can make a portal where they can connect their accounts so we have all that or however we wanna do that.  
+Them: Yeah. Yeah. That's so one of the big things too that I think for a dirty MVP, like I said, what I could do is just have, like, an account that invites them to events. Like, that would be, like, the dirty MVP.  
+Me: Sure.  
+Them: And it would work. And, like, again, this is something that we solve with an AI agent right now, because it's it's general enough. And when I say general, I don't mean, like, general in a product sense. But general in an application sense, where the AI kinda it's it's easier than because okay. So one thing that maybe I should mention is that there's two big concepts right now. In the AI space when it comes to building a back end. There's an agent, which is what everyone's been advertising. It's what everyone's been yelling about. But a lot of these AI agents are actually more like what I and I believe Anthropic is the other com big company that's really coining term is what they call a workflow, where instead or a workflow is more like a Python script that has AI calls. It, but has a very deterministic output. Just maybe one or two of its input Excuse me. Four or two of its inputs come from an LLM. While an AI agent is actually giving the LLM access to tools, and saying, do a task. That's what an a that's the main difference.  
+Me: Gotcha.  
+Them: And so in general, what I've been what I've learned over the past couple of years is that it's much easier to build an agent And then if you find out that, oh, the agent's not doing a good enough job, then spending the engineering time to convert it into a workflow. But agents are way easier to build, just flat out, just frankly like, being frank with you. It takes me, like, you know, I whipped up that agent overnight, basically. Like, I couldn't sleep last night, so I'm,  
+Me: Mhmm.  
+Them: fuck it. I'm just gonna get this shit done for Ryan. Like, I have I'll that way, I have, like, a prototype for him in the morning.  
+Me: Mhmm.  
+Them: But, like, if I had to do that as a workflow, it would have taken me days.  
+Me: Gotcha.  
+Them: Like, so because, like, with a workflow, you have to, like, there's a lot of if statements. There's switches. There's, like, general programming things that you would have to do. But with this, it's literally like three, I think, three total Nathan workflows is the entire bot right now.  
+Me: Gotcha.  
+Them: And it's not complicated. Like, if you want, I can share my screen after we're done after you're done showing me the, Notion, and I can show you how it works.  
+Me: For sure. Yeah.  
+Them: So  
+Me: Cool. So, yeah, the context management, I think we already kinda got that. Also, it was cool that I could just send this to them to the bot, and it immediately created the key, like, the key value JSON structure that you were talking about and I can just create an infinite amount of clients And the client, like, lookup and everything, because, obviously, these people are gonna have multiple isn't like, that should be pretty consistent Like, we shouldn't have any breakdown there. With the hallucinations or anything.  
+Them: I don't believe so, but, I think it is going to need some testing. We're gonna need some tuning because right now, it is just doing a a rudimentary full text search for, like, whenever you search  
+Me: Okay.  
+Them: for stuff in the database. So I think longer term and when I say longer term, I mean, like, maybe after the first, like, five or six customers, maybe I should I should probably rework that, or maybe I can just look into it this week sometime. I don't know. The searching will need improvement is basically what I'm saying. For, like like like, smaller  
+Me: Okay.  
+Them: like, the scale that the chef is, it'll be fine. Like, it'll be fine. It was just like when we get to the point where, like, oh, now it's catering business with a 100 clients, that's where I'm a little worried it might break down.  
+Me: Okay. Gotcha. That's good. I think this part can be skipped for now, but that's  
+Them: Let's do the cron job.  
+Me: this is the group chat aspect where it can oh, it should be  
+Them: That's the other thing. Like, with scheduling, all scheduling in an AI is the is cron jobs. That's all it is. It's just a database, and it just checks every minute. And then if  
+Me: True.  
+Them: the database says, hey. You have a cron job available. Like I said, I built an app like this.  
+Me: The  
+Them: Like, it's not hard.  
+Me: right.  
+Them: Which if you want, I actually got the yeah. I don't know. I got bit of the app working. I I was telling you that, oh, well, ChatGPT task doesn't support MCPs, and I thought it'd be cool if I built a tool that's, like, you know, this tool fits in the niche of, oh, now it's, like, ChatGPT tasks, but it hasn't it has, MCP support so it can access other tools. Which is, like, the more I've looked at it like, I built it and all honestly, I mainly built it more as a learning experience to learn Convex and learn Clerk than I did as, oh, Chandler's actually gonna sell us as a product. Because the way I think about it, I'm like, this is useful for, like, me and, like, maybe a dozen other developers on the planet and, like, no one else.  
+Me: Gotcha. Yeah. That's definitely micro niche for sure.  
+Them: That is, like, micro, micro niche. So, honestly, yeah, it's better for me to just use the skills that I learned from that to build us another product in the future than trying to market that.  
+Me: For sure. Yeah. We can definitely I mean, again, we're just kind of blitzing this because we can get it in the hands of the chef ASAP, and we can get user fee her using it and get user feedback very quickly. So but, yeah, as soon as we get through that too, like, Tomas is also traveling technically. Like, he's only a couple hours away from his house, so he it's a little bit more in inconsistent. Otherwise, I'm pretty sure he'd be on this, and that's where we can start talking about know, we can there's kind of multiple meeting types I guess. There's these ones where we're kinda just getting in the weeds a little bit. Figuring some stuff out, and then there's also you know, stepping back for a second having you know, a good hour conversation about what other things are we seeing potentially working, you know, ideas, what have you. Like, you'll see very quickly, like, he is very, very good. At unders like, building opportunities around insights. So, like, he is a very, like, framework focused individual but from, like, the business product and growth perspective, which is very interesting because he's nontechnical. But he's very very good shaping something that is a unique insight or a insight that we gain you know, through explore exploration, through whatever, lived experience, any of those things. He calls them unique insights into opportunities. And then that opportunity, he starts to paint, and now it's my job kind of to extract the the features or the MVP or the prototype for that. You'll also be a component of that as well, I believe. And then the execution, obviously, that's your biggest responsibility. I would say if that sounds enticing, then, again, like I said, the longevity of working together is gonna be great.  
+Them: Yeah. Yeah. I think that sounds good. A lot of it's going to be, again, like,  
+Me: Cool.  
+Them: I it's weird because I've tried to, you know, do my own project and stuff, but it's very difficult because I'm not a business minded person. I'm a very technical person.  
+Me: Sure.  
+Them: Because that's how I've been trained. Like, I went to like I said, I was self taught. And I was way more interested in the tech itself than becoming, you know, actually making a shitload of money on the tech. But as I got older, I realized, hey. Like, if I know how to market this, I can make a lot of money. Well, that skill set just never materialized.  
+Me: Sure.  
+Them: And it'd be, yeah, being able to work with people who are able to find opportunities and find customers is, going to be a great great way to actually utilize my skill set to make instead of helping other people make money, now I'll make money.  
+Me: Exactly.  
+Them: So  
+Me: Exactly.  
+Them: yeah, I'm I'm definitely down. Like, I've I even talked over with Hailey. Like, we already had a conversation about it. Like, if you guys are confident that we can start getting customers here in, like, a matter of, like, a week or two, which it sounds like you are, I'm a 100% down. Because, again, that's been my biggest challenge. It takes me you know, it takes me six months to find one customer. And when I do find one they're not willing to pay because the product's free right now. Like but if you guys are like, yeah. We already found, like, you know, three or four customers who love it and are willing to pay for it, like,  
+Me: Yeah.  
+Them: shit. Like, let's go.  
+Me: Exactly. So I think a lot of this stuff was based on the fact that we were going to be building the invoicing service for her, but I don't think that needs to necessarily exist in the same capacity, at least for this kind of, like, pre MVP, if you wanna call it that.  
+Them: Yeah.  
+Me: I think what is interesting is making sure that the chef can say the stuff like this about the client. They're on Whole30 all day, life event saved and confirmed. So just, again, back to the context management. I think the other thing that would be awesome is to have to link up with the schedule. I think that's probably the next step. And we can do it in one of two ways. We can do the way you suggested or I can get a calendar that's managed through, like, Google whatever the I can't remember what they call their calendar. APIs or whatever.  
+Them: This is Google Calendar. Yeah. It's Google Calendar API.  
+Me: But I can create a shared shared calendar that we can create events on for her and then she can just I'll share that calendar with her  
+Them: That's also fine. But my big thing was is that for the pre MVP, I really don't wanna have to have us either of us down and spend time developing out a web front end.  
+Me: Yeah.  
+Them: So as long as and I can access shared calendars with whatever account that I make that Nathan has access to.  
+Me: Oh, so, yeah, you don't even need you we don't even need to do that. We just need to create  
+Them: So yeah.  
+Me: the shared calendar and share it with Nathan.  
+Them: Yeah. I just I right now, I don't wanna have to think about any web I'm like, Chandler wants to build this entire prototype in, like, no and low code environment. So that way we can get it up and running in a state that we're happy with as fast as possible.  
+Me: Okay.  
+Them: Generate some revenue. And then once we're making money, then I'm gonna sit down and actually start converting this into, like, a long term project that we can maintain.  
+Me: Yeah. Well, you already well, yeah, there's already things too. Like, we're not gonna use a one base. We're not gonna use my forwarding. Service on my Android phone.  
+Them: Yeah. We're not gonna use any of that. We're gonna try to go directly through. And I think you said, like, are we good with  
+Me: Twilio approval's on the way. It should be within the next two weeks.  
+Them: yeah. Twilio I'm cool with Twilio, which I think Twilio also supports WhatsApp too, don't they?  
+Me: Yes. We already have both of those campaigns in process.  
+Them: A one base is neat.  
+Me: So they we should be getting  
+Them: Honestly, I could see myself using this like, for prototypes and stuff in the future, but long term, it makes no sense. Because, like, it literally take like,  
+Me: Zero.  
+Them: now that it's like I don't know. Maybe just because the little seizure that  
+Me: Mhmm.  
+Them: Cloudflare was having yesterday, it was running super slow. But, like, to today, I've been testing it. Just occasionally, I've been sending in a message to see what it does. And it's been doing fine. For me today. So I think we were just having problems yesterday. It was just untimely.  
+Me: Gotcha. Yeah. It just happened to be So maybe the instead of  
+Them: But more services is bad is my point. I think that Twilio is probably a better service long term anyway to use. Plus,  
+Me: Yeah. I agree.  
+Them: Nathan has triggers for, like, oh, when you receive a new SMS on a phone number, do a thing. Like, it's already got all that stuff built in.  
+Me: Gotcha.  
+Them: So instead of me having to, like, configure a webhook, all I have to do configure the Twilio account in Nathan and then press two buttons, and boom. Now anytime I receive an SMS on this phone number, Nathan triggers and I can start the AI.  
+Me: For sure. That's awesome. So, yeah, I think instead of focusing on these old features, maybe let just do the scheduling. Like, let's make sure the all the context stuff works really well, and we can like, have multiple clients and, like, reference them and get information about them. Like, it worked perfectly yesterday when I added just had AI generate me some fake clients and  
+Them: Yeah. I only saw one in the database, the other day, but I haven't checked this morning.  
+Me: yeah. No. No. No. It was just the one, and then I asked it. I I said, at the store right now, I need to shop for an upcoming set of meals for the client's name. Help me out. And then it gave me a a basically a list of what to buy Again, because a lot of the times, these chefs, they just buy ingredients and then create dishes on the fly. Like, that's how my wife does it. She doesn't really like she went to culinary school too. I don't know if I've told you that, but  
+Them: No. You didn't. That's cool.  
+Me: we kinda just buy shit It turns into a meal. And I'm like, you don't have a recipe? She's like, no. I'm like, okay. Well, I didn't have a recipe, I'd probably jump off a cliff because cooking is the worst thing ever. But yeah. So that is I think we'll just go through testing on that. Like, I'll do a bunch of testing with that today, and then we'll also pass it over to her. I think the only other thing that would be really nice is if she can talk about scheduling, and then we the Google Calendar. So can just shut up set up a Google Calendar, a shared one on my Graffle, share it with her. And then share it with the name, and then we can see how that kinda gets filled out and managed.  
+Them: Yeah. So for that, I will need to configure basically, I'll need to configure one of things that sucks. Google's API is Okay? I understand that Google is a massive company, but their APIs are such a fucking nightmare to set up.  
+Me: Mhmm.  
+Them: I might go look around for, like, a third party service that just makes it a lot because that is how much of a pain in the ass setting up Google Calendars and, like, Google APIs are.  
+Me: Okay.  
+Them: Because I've set up email API. I've set up the Google Calendar API with Nathan before. It took me thirty minutes to do one of them because I had to go find, like, API keys. Had to, like, configure Nathan with webhooks. And blah blah blah and all this crap. And then it only works for two weeks, and then you have to do it all over again.  
+Me: Gotcha.  
+Them: Because Google's fucking TTL is, like, nothing. So I might find I think it was, like, there was a few that, like, made configuring these calendars and these integrations. Like, I a two or three click operation where all you had to do is, like, log in with your Google, and they give you an API And then from there, they'll handle all the hard stuff. So maybe for the MVP, I'll use that to try to get it up and running here in, like, couple hours. I have to leave at noon, and I probably won't be back until, like, five. But,  
+Me: Okay.  
+Them: yeah, I think that all sounds good.  
+Me: Yeah. Just let me know then if you need a card. Credit card or anything, like, the service cost, just let me know. But yeah. Any the the scheduling, I think, would be the only other thing that if we could get that I can just immediately show it to her. Do you think also, I didn't see how like, will this work if it's invited to a group chat as well?  
+Them: I don't know. I haven't tense it.  
+Me: I would love to be able to put it in a group  
+Them: Just do it. Like, just invite it to a group chat and see what happens,  
+Me: Okay.  
+Them: If it breaks, I'll I'll tell me how it breaks, or I can look at the  
+Me: Cool.  
+Them: the error logs, and I can try to fix it. But I don't I don't think there's any reason this shouldn't work. I will say one thing. Okay? So the way it's configured, is that it uses the contacts phone number to determine like, when it's supposed to do thing like, what like, it it's the primary not the primary key, the identifier. So, like, for example, if you and are both in a group chat, and I message the bot and say, hey. I need this contact. It will use my phone number to reference the database entries. It'll only be able to see my contacts. The other thing is, as it's currently configured,  
+Me: Interesting.  
+Them: any message in that group chat will be sent to the AI period. That I know for a fact. Because there's currently no way for me, at least not right now, I could add, like, a trigger word, like, oh, if you're in a group chat, only trigger on these specific words. Then maybe that would be better because that's  
+Me: Mhmm.  
+Them: I this was a dumb I dumb decision on a one basis part. It triggers when it sends itself messages. It, like, triggers by its own it's triggered by its own I get webhooks when the bot sends messages. So what I had to do was  
+Me: That's so weird.  
+Them: is check It's so stupid. I'm like, I had to check Hey. Did you send this? And if it sent it, I just ignore the message.  
+Me: Gotcha.  
+Them: And just throws it out.  
+Me: So I just messaged it in a group with me and Tomas, and it's sent me the message privately.  
+Them: Okay. So it is just using the private messages right now. So right now, it does only  
+Me: Which was weird because it started typing in the group, but then it sent the message to me.  
+Them: Okay. The reason it does that is because the typing the so the way that the typing works on a one base is that it uses however like, when the webhook is pending and hasn't returned returned yet, that's when it shows the bubble. And then but as soon as I send the message, I'm sending the message with a separate API request because there's no way to give it a message as a response.  
+Me: Yeah. That's dumb.  
+Them: Which is really stupid in a way. Like,  
+Me: That's so dumb.  
+Them: you have to you have to it takes webhook calls, but you have to make separate API calls in order to get the send messages, which is so stupid because now I have to go through  
+Me: Yeah. It's very clunky.  
+Them: k. That's why I really wanted to switch to Twilio, like, as soon as we have approval. Like, I don't like a one  
+Me: As soon as we get approval, we are. Twilio is cheaper, better, faster, more scalable. Like,  
+Them: In natively supported in the no code tools. And then also once we do start transitioning  
+Me: it's just a pain  
+Them: transitioning over to, like, Node. Js, it's like it has the best document  
+Me: Yep.  
+Them: documentation of some of of, like, the big companies ever.  
+Me: Yes. Yep. And they they have full RCS support too, so we can do group messaging and stuff on regular SMS. That's a limitation right now of the APK that I may. And maybe I could modify it But for the Android  
+Them: Would you write with the and?  
+Me: Yeah. That's a great question, isn't it? I I used to do Android development for it was a while ago. But like I said, it's Java. What?  
+Them: Gross.  
+Me: Yes.  
+Them: I hate Java. I've I all of my  
+Me: Well, that's what I was saying. When I used to do all the RuneScape botting and stuff, I had it, and then it was just very like, there was already I found a GitHub, and then I basically just forked that, and then I was able to make some modifications for what I needed. But there are services. There's one called textb.dev. And there's another one called HTTP HTTPSMS. And those two they both do the same thing. But the thing about that is they do not do group messaging either. So I was like, instead of paying for this and not getting all the features I need, I'm just going to do it myself. So  
+Them: Yeah. I am I'm a React native head when it comes to mobile app development. I think React Native is the superior way to do it.  
+Me: Yeah. Me too. I love React.  
+Them: The only exception being that I have used the tool called Ionic in the past. I don't know if you ever heard of it. It's so it's very similar to Apache Cordova where it basically takes a web app and turns it into a mobile app. But Ionic is just better supported, and it's actually a fork of Cordova. But it, it's just better supported, as better like, they actually built a component library that automatically looks native So, like, when you build the app, then it builds the iOS version, it makes it look like native iOS. And when you build the Android version, it makes look like native Android. But it's really it's even funnier, though, whenever you pull it up on, an old version of Android because it  
+Me: That's awesome.  
+Them: looks like new Android when you're on old Android. Yeah.  
+Me: Oh, interesting.  
+Them: Because it it's all web.  
+Me: Yeah. Because it isn't truly native. Yeah.  
+Them: Yeah. It's not truly native. And then it also has oh, hey, Thomas. It also has Hey, guys. Support for just I don't know. It it it's you can make custom extensions much easier than React Native in, like, Java and Objective C for, like, native application for, like, native operate.  
+Me: Mhmm. And iOS switched to Swift  
+Them: It's, the big thing.  
+Me: recently, like, somewhat recently. Right?  
+Them: Yeah. A friend of mine is, like, super into Swift, and I and he, like, is, like he he only I'm like, we need to develop this as an Android app. He's like, no. It's gonna be an iOS app and nothing I'm like, oh, okay. We're just gonna say fuck the Android users.  
+Me: Yeah. Well, they don't they don't exist. They don't pay for anything.  
+Them: They don't exist. Yeah. But, anyway, yeah, I'm looking through, trying to find, like, an easy way to integrate  
+Me: Cool.  
+Them: the calendar because, again, I really don't wanna have to deal with the Google APIs, but I might just have to suck it up and  
+Me: The TTL, I have one from the stuff I was doing for the lawyers, and I've never ran into  
+Them: deal with it.  
+Me: a TTL issue with that.  
+Them: Okay. Well, I'll I'll look into I gotta remember what the process of me connecting  
+Me: Oh, that's right. Because you're doing it to Nathan.  
+Them: Google Calendar to Nathan is.  
+Me: I was just doing it inside think I was using their NPM package.  
+Them: Yeah. Well, to be fair, like okay. So  
+Me: Inside of  
+Them: So I have a I have to create a new credential. What's the process for creating a new credential? I need an OAuth redirect callback, which I with Nate and provides. I need a client ID and a client secret. Do you have, like, a Google Workspace or something that I can, like,  
+Me: Yep.  
+Them: get into? Not Google Workspace, but, like, a Google Cloud that can get into so I can make all those credentials I need? Are you just using are you just using Graffle  
+Me: Yeah. Let me it's on my purse.  
+Them: right now? Like, Graffle's old like, accounts for everything.  
+Me: We never had a GCP account. But the the answer to that is mostly yes. But the we've never had a GCP account. It's just my personal one.  
+Them: Okay. You just add me as a user, I think.  
+Me: We could  
+Them: Or we or if you wanna set up a a proper Lightyear accounts and everything, I know what you wanna do. Think it sucks  
+Me: Yeah. So  
+Them: Putting a new company, lots of admin work.  
+Me: I can just set up a new project. Inside my Inside there.  
+Them: And I can hear out here. I'll just send you on Telegram. I'll literally just send you the OAuth callback URL, and you can send me the client ID and the client secret. But it just needs full it needs full Google Calendar access. And it it actually, like, what it will do is is that it will give me a a button, and I click the button, and then I log in with a Google account. It's how Nathan works. So  
+Me: That makes sense.  
+Them: yeah, which also I was gonna talk to you about this, but honestly, for at least for right now, it's not that relevant. In, like, the near future, like, once we get more than, like, two or three customers, I think it would be best if we start spitting up our own infra instead of relying on Chandler's old gaming PC running Linux in the basement to run all of it.  
+Me: For sure.  
+Them: To run all the company stuff. So calendar.  
+Me: Yeah. Whatever we need to That's weird. I'm getting an error.  
+Them: And then what so basic  
+Me: Okay. So while Tomas is on, let's pivot. We I'll keep the the queue Google Calendar stuff up. For some reason, I it won't let me create credentials. Inside Google Cloud. For a new project, of course.  
+Them: Yeah. We can we can yeah. We can deal with that crap later.  
+Me: Oh, here we go. Awesome.  
+Them: Because what I'll end up doing is just make  
+Me: We were just  
+Them: agent to manage that.  
+Me: Cool. We were just talking about the would it be user actually, let's just fucking do this right away. Would it be u user data? This will create an OAuth client? Yep. That's what you said. Right?  
+Them: Yep. He's our client. Here. I'll send you the it's like, save that overview credentials. Create new credential. Calendar, Can you telegram, This is the OAuth URL. Ignore the ignore the URL. It's just some fucking domain I have. Because it needs to be HTTPS for Nathan to work properly.  
+Me: Is it web app?  
+Them: Yeah.  
+Me: Probably.  
+Them: Think it is. Yeah.  
+Me: And it's a redirect URI?  
+Them: Yeah. It's I just sent it to you in Telegram. Yeah. It also can access Calendly if they use Calendly, which is interesting.  
+Me: I don't just Georgie doesn't use Calendly. Right?  
+Them: Still don't use anything.  
+Me: Yeah. Does she, yeah, have have does she I mean, I'm sure she has an email. Right?  
+Them: Yeah. Yeah. Yeah. She had the pieces. I'm just saying that the usability No. Did you wait see the OAuth two client? Information? You just gotta download that as, a JSON file? I don't know if you it it prompted you to do that. Because I need  
+Me: Oh, you know what? I think it automatically saves it.  
+Them: just send me just send me the JSON file  
+Me: It used to.  
+Them: handle it from there because the information's in there. Client secret. I need client secret and client ID. So there's the secret. Alright. Copy. There's the secret, and then I just need the ID, and I can just copy that. Paste it in. There we go. Copy that. And then for now, I'll just sign in with my own Google account just to make sure this works.  
+Me: Cool.  
+Them: They might yell at me and say, you're not authorized for some reason. We'll do that Google account. Access blocks. My domain has not completed the Google verification This app is currently being tested. It can only be accessed by developer approved tester. Oh, just have to add my email address as a dev as an approved tester, and then it should work.  
+Me: I can't where is the  
+Them: However, you do that. I have no idea how to do that. Probably in the calendar API crap.  
+Me: Yeah. You're probably right.  
+Them: If if you want, we can deal with this later, or we can deal with this after if you want don't wanna have Thomas sit here and watch us debug Google stuff. Oh, good, guys. Don't worry about it. I can sit in the background.  
+Me: I don't think this is their this is a service account. I don't think that's it. Right?  
+Them: No. We don't wanna service account. We want, under let's go to the client ID maybe. Like, click on it. Wonder if there's, like, a it's authorized. Let's URI. Yeah. That's fine. It's the secrets is fine. I wonder if there's here. I'm just gonna search it. Add test user to Google OS. Shit. I don't see anything that could be might be into the  
+Me: I got it.  
+Them: Test users. Just put in my chandler@chand1012.dev email.  
+Me: And the .com.  
+Them: It's dot dev. And now let me see if it works now. I know that you haven't verified the app. Continue. Yes. It worked. Cool.  
+Me: Cool.  
+Them: View and edit your all your calendars. See, edit, share, and permanently delete all the calendars that you can access. Yeah. It's fine. Cool. Now I am officially logged in with Google Calendar.  
+Me: So we're just gonna make a shared calendar for her.  
+Them: Yeah.  
+Me: And then invite her to it. Okay. You can just test however you want, and then once we actually get to her, we can figure out  
+Them: I'm gonna go make my own, test calendar so I don't muck up my existing one.  
+Me: Yes. Good idea. Okay. So, Thomas, him, I were just talking about the current state. It seems like functionally as a CRM and being able to store kind of the information as well as do kind of the basic functions work. I added us to a group chat with the bot to see how it would act in a group chat because I preferably like to be just a silent member in her group chat. Like, both of us all three of us maybe with the bot so I can just see how she's using it. So we're gonna try to get that figured out. The other thing was adding scheduling or just calendar management. So that way, it it's gonna be super simple. She just does everything via text. And it's just gonna create events and move manage the events. Like, if things get canceled, moved around, whatever on a Google Calendar. That's just shared. So we'll be able to see it It'll just be like, if she was a part of an organization, had a calendar share shared with her. So really super simple, but think it's good. It's pretty cool the state that it's in. The so, like, yesterday, I just it sends this back Did you change the onboarding flow from yesterday? At all?  
+Them: Yes. But because you already had an entry in the database, you won't see it. If you want, I can clear you from the database and then you can demonstrate what the, what the onboarding flow will look like.  
+Me: I don't I don't necessarily know if that makes sense. We could also just have him  
+Them: All he's gotta do is message the bot. Like, it  
+Me: test it. I don't think he's messaged.  
+Them: all I did was make it so the first message you send is different. Like, it's not an AI. It's deterministic. It's literally just a preset message that I wrote.  
+Me: Okay. Cool. So, yeah, so I just sent it. I'm private chef at the moment. I just need basic features like contest context management. This was directly from our Notion, and then it created this as basically the formats that it's gonna start saving stuff for these clients. And I said, can I add a new client? Certainly. Please provide more details. It gave a nice little summary. I had AI obviously generate this as, like, a fake person in LA. I regurgitated back exactly what things I said. And then I said I'm at the right now. I need to shop for an upcoming set of meals for Julia Whitmore. Help me out. Upcoming meal prep, let's focus on creating high profile, low dairy, low sodium with a California Mediterranean flare. Given her preferences, dietary needs, here's a shopping list based on some meal ideas. And then actually adhere to the preferences and all that stuff. So and then I met this was not a message it sent on its own. I sent a in this group chat, and it replied directly to me, which think the routing of that could be fixed I'm assuming  
+Them: That's I I need to I don't a 100% understand how a one base handles their, their group chats. But if I'm honest, it might be worth it for us to just not bother and wait until, we switch over to Twilio.  
+Me: Okay.  
+Them: Because I don't know how much engineering work that's gonna take, and I'd rather spend  
+Me: The only  
+Them: time on the, calendars.  
+Me: Gotcha. Is there a way that we could just instead of us being  
+Them: You know you know we can see all the messages she sends in the in the a one big that's  
+Me: I was just gonna say, can we just  
+Them: Right?  
+Me: can we I was just gonna oh, you can see it in a one days.  
+Them: Yeah. You can just go to the a one based dashboard. I've been able to see all of text messages back and forth with it in the a one based dashboard.  
+Me: Oh, cool. Okay. So we'll just use that and just I'll just keep an eye on that and that way we can kind of I the thing is just, like, if something happens and she's trying to  
+Them: Yeah. No. It'll we can  
+Me: explain what it is or, like, argue, it's better if we can just  
+Them: we you can so if you go to the a one based dashboard,  
+Me: Mhmm.  
+Them: you should be able to go to I'm gonna just I'm logging into it right now. Their website is still slow and crap. It's under view conversations. And then you can it'll just take it takes forever to load. But then you'll be able to see all the conversations it's had.  
+Me: Fuck. Is this white?  
+Them: It's the the the the formatting's messed up. What I had to do is I had go enable dark reader to be able to read the stupid mess  
+Me: Okay. I'll fuck with that.  
+Them: which is hilarious. But they they're there but they're there. Their website's crap. We really need to switch it really.  
+Me: Yeah. That'll happen as soon as you get approval.  
+Them: Yeah.  
+Me: Okay. So we're gonna do the scheduling. Was there anything else outside of those two basic things that don't, like, have a ton of web service attached to them to us that you would want before we let her start using it?  
+Them: Invoice?  
+Me: Are the invoicing?  
+Them: Yeah.  
+Me: Okay. And we don't need that. Is she still gonna use Zelle or whatever payment method she's using to collect? You're just saying, actually, like,  
+Them: Just generate an invoice. At this point, just so  
+Me: do  
+Them: it spits out whatever she wants, you know, to send to a client.  
+Me: Yep. Sure. Okay. I can explain that pretty easily. So the that is a hundred percent One of the key features for these people is they're pretty bad at the accounting and, like, record keeping aspect. So there's two parts to the invoice. There's just the basic conversational, like, prompting is like, hey. I need to generate an invoice for this family, and it's gonna say, How many hours did you work? And then, like, what's your rate? Maybe we can stare share or store her rate like, hourly rate for that family on the CRM record. Again, I think some of these things where it's like, like how I provided all that information about the let me check. This right here, this context management, this should already be kind of, like, the default because, like, she's not gonna be as technical to be like, this is everything I need to save what I was saying yesterday or, like, the point I was trying to make about  
+Them: The sync pattern is  
+Me: it needs to be a little bit more specific versus general.  
+Them: system prompt then. Yeah. That's not that  
+Me: Yeah. Okay. Cool. So, yeah, let's just let's roll with this  
+Them: big a deal.  
+Me: then. I think I sent that to you. If not, I'll just plop it in the telegram.  
+Them: Well, eventually, I'll have a  
+Me: Let's just have  
+Them: I know I saw that was in the Notion. Once you give me access to the Notion, I can just copy everything from there.  
+Me: yeah. And I'll do that today. I just have a couple things that right after the or I'll I'll get it to you by the 05:00 you get home because if you're leaving in an hour,  
+Them: Can you  
+Me: you can just poke around with other things.  
+Them: Yeah. I am.  
+Me: So, yeah, I think that's where I'm like, the perfect example of a user right now. They're all gonna be kinda, you know, they're gonna be a little bit more tech dumb where they won't know what they know. So that's why why I was saying is, like, the invisible CRM back in that example I was giving at the beginning of this call, we need to kinda surface those features right now for for these people because they don't have, like, they don't know what a CRM even is or what they would do on it.  
+Them: Yeah. They they don't know. The CRM is, like, that's their, like because I I know people are like, oh, do you know HubSpot? They're like, no. I have no idea hell it is. And they're like, you're in sales. You definitely should know what HubSpot is.  
+Me: Exactly. So just in that same exact scenario, she just doesn't know what she would need to store. So we do need some pre I think we already have this well defined, though. So  
+Them: Yeah.  
+Me: skipping past that, yeah, I think that's really the main part of it. And then yeah, I think this is good. Like, just saying hello and then getting this response. How can I assist you today? If need any more help with meal prep, client management, or anything else, just let me know. That's great because that's you know, now they know, okay. These are the things that I can do with this. For the invoicing, it's pretty simple. Like I said, we should add to this list. I'll just throw it here. Seven hourly rate So for the invoicing, just two things. It's the receipts. So she's gonna send photos and I don't we'll just need to see if a one base can handle this right now. But right now,  
+Them: It does do attachment URIs, so I can, like, see what a like, it'll give me a link to the photo that I can then, like, send the link to, like,  
+Me: Okay.  
+Them: a sub agent that downloads the photo, does some sort of, like, honestly, I'd probably just pass it off to an an agent that would be like, here's a receipt. Go put this in, like, I probably make another table called, like, accounting or something where, like, it'll crack all of the expenses.  
+Me: Okay. Cool. Yeah. So we need to track all the expenses given the client. So there needs to be a relationship there. And then that way when she says, oh, I need to generate generate an invoice for the Johnson family, it's gonna be all those recent receipts and then her hour it's gonna prompt her about, okay, how many hours did you work? And if she has the hourly rate stored, then it'll just she says six hours, and she's gonna do 600 plus the cost from those, then that we're done. That's the general gist of how that we feature needs to work. I think if we get that plus the calendar, we as soon as those two things are done, we can immediately go to her and have her start using it. Oh,  
+Them: Okay. Yeah. Those are the so, admittedly, the invoicing is the harder of those two features. Like, the calendar, I could probably have done here in, like, an hour.  
+Me: Okay.  
+Them: Like, that's not like, I I my plan is to have that done before I leave at noon. Because that's basically just an AI agent that needs to be able to access Google Calendar and specifically the calendar that I made  
+Me: Let's focus on that one, and then I'll give you, like, a little bit of user stories and just, like, the scope of what that is so there's no  
+Them: a little a little more detail  
+Me: creep. Yes.  
+Them: for the invoicing to make it a little easier to scope it out.  
+Me: Yep. And then if you wanna circle back when you are gonna start to  
+Them: Cool.  
+Me: that, I'll be I'll make myself available. If you feel like the good enough that I put in Notion, then we'll do you know, just go with it, and then we can ad hoc  
+Them: Yeah. I'm  
+Me: or async kind of go over  
+Them: Worst case, I don't know how much time I'm gonna have this evening. So, like, odds are, I might only have time to get the calendar thing done, and then I'll have to do everything else tomorrow.  
+Me: Okay.  
+Them: But yeah, that's the goal for today anyway.  
+Me: That's fine. She so the goal really would be Thursday because she comes over to is she gonna come over today or Thursday, Tomas? So this is technically Tomas' chef.  
+Them: Yes.  
+Me: And she comes on Thursdays for six hours. So it would be great to have the scheduling and the invoicing, the light version with no services, no, like, billing, no Stripe. Anything like that done because he can walk her through how to, like, set it up and interact with it on WhatsApp.  
+Them: Cool.  
+Me: Like, live. So  
+Them: Yeah.  
+Me: if we can I think usually it's around noon? Right? Mountain time? So it'll be 02:00 eastern.  
+Them: So, like, 2PM hours? Yeah.  
+Me: So if we could hit that, that would be great.  
+Them: We could  
+Me: If not, we can hand it off to our async  
+Them: we can do we can do a call with her. You know?  
+Me: Yeah.  
+Them: She's pretty available too. So whenever we can just get on a call and can always be in in in in the room, basically, and just kinda give her give her the pieces and just see, like, you know, how she's interacting with  
+Me: Yep. Cool. Is there does a one base have just, like, how they have this view conversations? Can I just is there an API where I can view conversations?  
+Them: I don't I don't know.  
+Me: Probably should. Okay. I just know if you knew off top.  
+Them: It's not in their documentation. No. I don't. I I haven't I literally read their docs bare minimum to get it to work.  
+Me: I mean, their docs are bare minimum.  
+Them: And that's it because, honestly, yeah. So, like, I didn't really go very much farther than that. I'm like, yep. I'm gonna get this working, and, like, that's it.  
+Me: Cool. I'm gonna check it out because then if we can do that, I'm just gonna have it so we can look at it separately. Because I don't wanna wait for that site to load and put dark mode reader and shit on. I I'll give them some feedback, though. We have a chat with  
+Them: Yeah.  
+Me: founders of that, so I can just tell them, like, look. What the hell are you guys doing?  
+Them: Did you show them my error message of he literally got an error message with no error message.  
+Me: Yeah. That's horrible. I don't understand how they're, like,  
+Them: That took sixty seconds to resolve too, by the way. I'm pretty sure it  
+Me: why is he  
+Them: timed out. It's required failed.  
+Me: A 100% timed out. Okay. Cool. I think it's a good stopping point. Wanna we've already been on for an hour. So  
+Them: Yep.  
+Me: Tomas, if you wanna chat let me check my calendar really quick. Oh, for  
+Them: Yep.  
+Me: if you wanna chat, I have thirty minutes. But okay. I'll call you back on my phone. So I can walk.  
+Them: I will talk to you guys later.  
+Me: Yep. See you.  
+Them: Okay. Thanks, Rahul. 

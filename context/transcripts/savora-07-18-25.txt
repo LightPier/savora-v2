@@ -1,0 +1,139 @@
+Meeting Title: ChefOS v0 Review w/ Tomas
+Date: Jul 18
+
+Transcript:
+ 
+Them: Hey, Ryan.  
+Me: Yo.  
+Them: You in the office are working from home today?  
+Me: I'm in the office.  
+Them: Yeah. So I was doing research on the ICS stuff, and I'm leaning towards  
+Me: Yeah. Leaning towards  
+Them: I don't wanna have to send them an email, and they have to go to the email their email because that's just  
+Me: I don't wanna have to send money to the  
+Them: clunky. I don't like that.  
+Me: But  
+Them: But the web cowlengths don't work. In  
+Me: What if we just what if we just created it as, like, it  
+Them: WhatsApp.  
+Me: it's just like a database with all the shit, and then in the morning, we just have a cron service that kicks off at there. So, like here. Let me show you something real quick. So we have another version of it running, and I think I alluded to this. Yo.  
+Them: The laptop or  
+Me: No. I mean, if you can see my screen, you should be fine. I can also adjust the window.  
+Them: Oh, you have Chrome set up on the other version.  
+Me: Yeah. So it does a morning recap and check-in and stuff. And then so this is the one we were using to do the reminders and stuff. So it's just simply simply a task system, but so, Tomas, the thing we were talking about was the experience right now just for Georgie on the calendar side. And, honestly, I feel like it's better if we just, like, kinda create the calendar, whereas I see it as more like she would just get a text in the morning with what she's doing. Maybe in the evening depending on her preference. Of what's coming up with the next day. And then she can also go and somebody needs to change something or if she needs to check if she's available, she can just conversationally do that and say, like, hey. Am I free the August? To do this? It'll take this much time, and then it can kind of intuitively manage your calendar that way. So it's like a calendar without the actual calendar view, and then she just gets alerts through Cron. Which Cron is just like the how you get the morning recap from Pierre right now. Because it seems like  
+Them: Okay.  
+Me: do you think that's better than trying to give so the other options are if she has a Google account, which it sounds like British people are retarded and don't, I mean, hot meal? Are we joking?  
+Them: I didn't think that still existed.  
+Me: Just kidding. Me either. But, obviously,  
+Them: Dude, Germany is the same. Germany runs on Yahoo.  
+Me: That's crazy.  
+Them: Yeah. It's weird. That would explain why Yahoo still exists.  
+Me: Yeah. Exactly.  
+Them: Yeah. Yeah. Exactly. I always think about that too. Yeah. You're right. This is some unique market.  
+Me: So in the in that case,  
+Them: So because the because the calendar app the the iCal doesn't work. Right?  
+Me: So it technically can we send the ICS message or no?  
+Them: Okay. So the way the ICS works, there's two ways to do ICS.  
+Me: Okay. So see it works two weeks. Do ICS. Online.  
+Them: On, on iPhone now. So as of iOS 18, you can open the ICS file from external apps, but you can't  
+Me: Use them.  
+Them: use them  
+Me: With  
+Them: is stupid. So you can click it, and it will show, like, on your Mac  
+Me: stupid. It's like click it. And you know, like, argument  
+Them: or whatever, like, the I c I think on the Mac, works. So you can click it, it will actually you can add it to your calendar.  
+Me: Yep. Yeah. Well  
+Them: But on iOS, you can't. If you click on iOS, it will show the calendar. It will show all the details, but there's no add to calendar button. Oh, I get that from  
+Me: I get that from I get that  
+Them: I get that one of my friends is actually sending Cal invites  
+Me: from my friend that you were sending gallon bites I can't do anything.  
+Them: I can't do anything. I can just see it. I can't even accept it.  
+Me: Yeah.  
+Them: Yeah. See, that's the issue we're having too. So  
+Me: See that. Too. So  
+Them: I think the you can open it  
+Me: I'm think you can. Open it.  
+Them: Oh, just curious. What what app were you opening that with?  
+Me: Curious. I'm. What happened. You opening that with?  
+Them: The well, actually, I tried both. I tried on I tried to open it with the Google Cal.  
+Me: Open it. With the Google. Account. And it's  
+Them: And it's the same thing. It just it says it's like, I can't find it.  
+Me: the same. Thing. It should be us like I can't find it.  
+Them: The event. I just get an error.  
+Me: I Yeah. It doesn't even let me, like, send it to the app. Like, you know how you click the share button?  
+Them: Yep.  
+Me: Yeah. Don't even see anything that has account.  
+Them: Yep. Yeah. Let me see. Because I'm  
+Me: Yeah. Yeah. I guess.  
+Them: yeah. I can well, wait. I can add to calendar.  
+Me: To Carolyn.  
+Them: Wait. Yeah. I can only add to calendar. And I can delete if I actually open it. And if I try to  
+Me: See  
+Them: say yes, and it opens in the calendar and it says I can't find that request, Yeah. That and then, like, for goo for Apple calendar, it just won't even, like, let you add it. It just has a done button. No. It allowed me to add. It actually allowed me to add. And now if I well, I guess it's what's happening. It's I see what's happening. So it's basically you can see that.  
+Me: see.  
+Them: Ryan's gonna be pissed now.  
+Me: Yeah.  
+Them: Watch this. So you see it I think what happened is that Apple Calendar recognizes  
+Me: Okay.  
+Them: what it is, that it's an event, and it just creates an event.  
+Me: Oh, it is? Gotcha.  
+Them: So it's a dumb event. Right, that the founders recognize that and it just creates for me. That's why I can only add or I can only delete. I can't interact with it. And then for some reason, if I open it through Google Calendar, it doesn't even find it. Did you see? I sent it in on WhatsApp. Mhmm. Yeah. So you see, I have it. Like, now it's it says show. Because I clicked add. And if I actually scroll down and I click yes on the When I click yes, like, on like, basically, the Google interface, Yes, no, maybe, more options. It just links me to Google Calendar, and then it says could not find requested event.  
+Me: So  
+Them: So may it will just show up in your Apple calendar. Does it show up in your Apple calendar? Yeah. Yeah. Okay. So maybe for Georgia, or Georgie, excuse me, it's it'd be okay if it just showed up in your Apple calendar. So it looks like the solution, unfortunately, is the clunky option of I'm gonna send her an email, and she has to click on the email. Because I believe you can still open ICS files via the email. Via Apple Mail, excuse me, that will open an Apple calendar. On iOS 18. Specifically, this feature was just, like, removed, like, literally last major iOS update. Which is so stupid. Yeah. Yeah. Yeah. That's when I started to get problems too. Okay. It makes sense. I wonder if we can because, admittedly, it's gonna be easier for me to for if we wanna hand it off to her, like, today, I it'd be way easier for me to just implement it as an email than it would be for me to retool it to, like, have its own database table and then have to have it, like, schedule cron jobs. What do you mean email?  
+Me: So  
+Them: So, like, basically, on set so currently, the way it works is that it sends her a Google Calendar invite. Which, by the way, it does that via an email. Yeah. And I believe whenever you get a Google Calendar invite, if it sends it to a non Google email address I might double check this. But I believe if it sends to a non Google email address, it does send her an ICS file. Will just try that. Does anyone have a non Google email we can try this out with? Yeah. Yeah. Send it to my thought was maybe we should just go through the flow with Ryan. I know you need it right now. Should just go through the whole flow because I don't know if he's shown you how it works currently. No. Yeah. It As of right now, our MPP is effectively done. We've got like, with the exception of the calendar thing, which, again, that's more of a design decision than anything else, we're able to add customers and, like, save information about those customers. So, like, dietary preferences, location, phone number, email, stuff like that. Then from there, we can then have like, say, for example, Georgie were to go grocery shopping and then send the bot a receipt it would automatically upload the receipt, analyze the receipt using ChatGPT or using OpenAI to then get, like, the total, and it would save the total. And then from that, they can then, either they can also schedule calendar invites, which, like I said, currently uses Google Calendar. And then on top of that, they can generate invoices. And if you don't specify the number of hours you work, it'll actually use your Google Calendar invite to guess how many hours you worked. I mean, that's fine. She can you can just ask her. I think it would be yes. I don't think Google Calendar is gonna know how many hours she's gonna work. Because Yeah. It it's like, say, for example, she were to schedule, like, a meet like like, a a cooking session from, like, 10AM to, like, noon. The bot would assume she worked two hours. I know that's probably not always the case, Yeah. Yeah. But worst case, you just ask the bot for a different invoice. Hey. I actually worked this many hours.  
+Me: What the fuck is this? No.  
+Them: This is how it shows up. Yes. I know.  
+Me: I don't care.  
+Them: I said you're gonna be Chandler, you heard that? When I said Ryan's gonna be pissed? Yes. Yeah. Yeah. Yeah. I did I did remember you saying that. Yeah. I think he just saw it. I didn't know why he didn't react before. And now it's a round three.  
+Me: How do how do you who the fuck who is this per I  
+Them: No, Rob. It's the real estate guy.  
+Me: It's just for you and him?  
+Them: I mean, he's we just talked about tennis and then he said he won't, like he he's like, we should do US Open. And I'm like, yeah. We should do US Open. And then he just sent me an invite. So he bought you two he bought two US Open tickets for US Open I think you con buy a cord side. You can't even buy  
+Me: You can't  
+Them: yeah. It's like yeah. Yeah. It's like you there's, like, some you gotta have access through someone. You gotta know a guy. He not even a guy. I think it's just, you need to be high up and, certain companies or business relationship, and then you you get access to those. And then yeah. Anyway, so he already had it, but I think he just had it, like, yeah. He just whatever. I don't know if I will be able to go with it anyways.  
+Me: I'll take  
+Them: But this is  
+Me: it. Don't worry.  
+Them: yeah. I well, here's this is two thoughts. Right? It's like, one is, like, we should we need to, like, think of it, like, a little bit not only her, but how others gonna be using. Right?  
+Me: Right.  
+Them: Which makes everything way more complex. Right? Because someone's gonna have this email. Someone's gonna have that email. And was, though. Who doesn't have a Google account, least in the United States? Seems Like everyone has a Google account, which is why my thought was immediately Google Calendar. Yeah. Yeah. That's what I would think. Yeah. That's what I would think. And by the way, she says she doesn't have Google account, I think what she means, she she uses Apple she uses Apple calendar. Well, it'll still show up in Apple Calendar. I know. No. But that's what I think she meant. Okay. Because let me see actually. What's her I think I might have her email. Because she sends me  
+Me: Oh, is it an iCloud email? Or whatever?  
+Them: Wait. Wait. Wait. Host like she previously discussed? Alright. Just a second.  
+Me: Can you reset me in the database while he does  
+Them: No. It's Gmail. Oh, yeah. Hey. I'll do that right now. It's Gmail. It is Gmail. Okay. Well, then we have no problems. Like, that's fine. This is yes, this is what I'm saying. It's like we're talking with non tech person that wants doesn't wanna use tech. Right? That's why she's so hyped about the technology where she could just chat, and it does the job for you. She doesn't need to use any apps. Because that's how they operate. But she literally her email is this one. I'll send it in here. I I need to, like, make us button that's, like, clear Ryan from database. Like, it just automatically clears you. Because I've had to do this, like, four times now. Do you still have that dummy receipt I sent you to?  
+Me: Yep.  
+Them: Cool.  
+Me: Cool.  
+Them: You're good to go over the whole flow. You're fully cleared.  
+Me: Are you watching the screen now? Come on.  
+Them: If  
+Me: I can also just read it too.  
+Them: Okay. No. It's okay. I'm just talking with my mom because she's getting 308.  
+Me: So it says, how long your personal assistant for your business? I can help you manage customers, remember and store key traits and contact information and quickly get information about your customers. For me to help you, can I learn a little about you? I'll need your preferred name and script of your business, your email address, and where you live. Also, include your hourly rate if that's how you bill your customers.  
+Them: I know this is not a good onboarding message. We can rewrite it later, but I figured it's good enough for now.  
+Me: Preferred name is Ryan. Personal chef. I just responded with Ryan personal private chef email Bozeman as the location. I really rate is a $100  
+Them: Ugh. It's still crazy to me that, like, all of the time it's spending is a one base just taking forever.  
+Me: Interesting. So it's a no. It's going back to, like, the invoice flow.  
+Them: Oh, shit. Wait. Wait. Let me go clear one more thing. I think maybe Redis is still got data. So let me go reboot Redis, and it should clear that data. Clear Redis. Clear my red arrow. Sorry. I didn't know that this would've I forgot that we're using Redis. Install Redis. CLI. Here, I can here, short term, I have a very, very fast and dirty solution. I'll fix it later. There. Now it'll use a different database temporarily. So just try it again.  
+Me: Did you clear the main one?  
+Them: I'm gonna go clear you out of both the primary database as well. Honestly, what I probably should do is recon retool it to use just like a a table in the Supabase as the chat memory. It just uses Redis by default. Because it's fast, I guess.  
+Me: Yep.  
+Them: Yeah. Primary database is also cleared. Interesting. It doesn't have a super base. Chat memory, but it has a Postgres. So I can just use Postgres, I guess.  
+Me: Oh, yeah. I I think I've seen that. The the Postgres implementation.  
+Them: Damn it. It's still doing it. Fuck. Okay. Of course. Of course, we gotta give a demo, and it's breaking. Let's just  
+Me: Course.  
+Them: law of coding, I guess. You know what? Fuck it. Literally give me a minute, and I will switch it over Postgres. I don't even care anymore. Oh, shit. Wait. Did you save the database, password when you cleared the Telegram chat? Because if you didn't, I might have to reset the database password. Oops.  
+Me: I don't I was it from I did did I provide that or no?  
+Them: No. I did. I made a soup I made us a a Light Pure Supabase account.  
+Me: Oh, yeah.  
+Them: Oops. I'll have to fix it later. Shit. Actually, maybe it would be even better if we just had Thomas do this because, one, then it would be a new account for sure, and we wouldn't have stupid memory thing. And two, we could see get his input and see how he would use it.  
+Me: Are you by a computer, or do you need some time?  
+Them: This is entirely a problem because you've we've been using it. That's the only reason why this is happening. Yeah. I can I can do it? I can do it. What I need to do?  
+Me: Just hop on a computer.  
+Them: I can share your screen to WhatsApp.  
+Me: Or if you just wanna meet back at 11:30 and then have Chandler reset everything in that time, that works. Better for me. So thirty minutes from now?  
+Them: Alright. I won't even reset it. I'll probably go switch over to like, reset the password and everything and just switch over fully to super base because I'd rather use that anyway.  
+Me: Let's just do that, and then I'll drive. That way he can say mobile.  
+Them: Alright. Cool. Alright. We'll meet back in third Okay.  
+Me: One minute. Bye. 
