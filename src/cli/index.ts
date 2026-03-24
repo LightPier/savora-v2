@@ -1,6 +1,7 @@
 import readline from "node:readline";
 import { supabase } from "../db/client.js";
-import { createAgent, runTurn, type Agent, type TurnResult } from "../agent/index.js";
+import { createAgent, runTurn, type TurnResult } from "../agent/index.js";
+import { saveMessage, loadRecentMessages } from "../db/conversations.js";
 import type Anthropic from "@anthropic-ai/sdk";
 
 const BOLD = "\x1b[1m";
@@ -27,7 +28,10 @@ async function main() {
   const chefId = await loadChef();
   const agent = createAgent(chefId);
 
-  let messages: Anthropic.MessageParam[] = [];
+  let messages: Anthropic.MessageParam[] = await loadRecentMessages(chefId);
+  if (messages.length > 0) {
+    console.log(`${DIM}Loaded ${messages.length} previous messages.${RESET}`);
+  }
 
   console.log(`${DIM}Savora CLI — type as Georgie. Ctrl+C to exit.${RESET}\n`);
 
@@ -47,11 +51,13 @@ async function main() {
     }
 
     messages.push({ role: "user", content: input });
+    await saveMessage(chefId, "user", input);
 
     try {
       const result: TurnResult = await runTurn(agent, messages);
       messages = result.messages;
       console.log(`\n${CYAN}savora>${RESET} ${result.response}\n`);
+      await saveMessage(chefId, "assistant", result.response);
     } catch (err: any) {
       console.error(`\n${DIM}Error: ${err.message}${RESET}\n`);
     }
