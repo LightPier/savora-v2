@@ -6,14 +6,17 @@
   "scripts": {
     "build": "tsc",
     "seed": "tsx src/db/seed.ts",
-    "cli": "tsx src/cli/index.ts"
+    "cli": "tsx src/cli/index.ts",
+    "server": "tsx src/server/index.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "@supabase/supabase-js": "^2.49.4",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1"
   },
   "devDependencies": {
+    "@types/express": "^5.0.6",
     "@types/node": "^22.13.14",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
