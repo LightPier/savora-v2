@@ -1,7 +1,7 @@
 import { supabase } from "./client.js";
 import type { Chef } from "../types.js";
 
-const GEORGIE_PHONE = "+44700000001"; // placeholder — replace with real number
+const GEORGIE_PHONE = "+13305151084";
 
 async function seed() {
   // Check if Georgie already exists

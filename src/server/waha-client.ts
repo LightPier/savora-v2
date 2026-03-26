@@ -34,8 +34,8 @@ setInterval(() => {
 // ─── Send text message ──────────────────────────────────────────────
 
 export async function sendText(chatId: string, text: string): Promise<void> {
-  if (!WAHA_API_URL || !WAHA_API_KEY) {
-    console.error("WAHA_API_URL or WAHA_API_KEY not configured");
+  if (!WAHA_API_URL) {
+    console.error("WAHA_API_URL not configured");
     return;
   }
 
@@ -44,7 +44,7 @@ export async function sendText(chatId: string, text: string): Promise<void> {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-Api-Key": WAHA_API_KEY,
+        ...(WAHA_API_KEY ? { "X-Api-Key": WAHA_API_KEY } : {}),
       },
       body: JSON.stringify({ chatId, text, session: WAHA_SESSION }),
     });

@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { resolveChef } from "./chef-resolver.js";
+import { resolveChef, resolveLid } from "./chef-resolver.js";
 import { isEcho } from "./waha-client.js";
 import type { DebounceQueue } from "./debounce.js";
 
@@ -35,7 +35,8 @@ export function createWebhookRouter(queue: DebounceQueue): Router {
     }
 
     // 2. Must be from the savora session
-    if (body.session !== "savora") {
+    const expectedSession = process.env.WAHA_SESSION || "savora";
+    if (body.session !== expectedSession) {
       res.json({ status: "ignored" });
       return;
     }
@@ -60,10 +61,21 @@ export function createWebhookRouter(queue: DebounceQueue): Router {
       return;
     }
 
-    const chatId = payload.from;
+    let chatId = payload.from;
     if (!chatId) {
       res.status(400).json({ status: "error", reason: "missing from" });
       return;
+    }
+
+    // Resolve LID format to phone-based chat ID
+    if (chatId.endsWith("@lid")) {
+      const resolved = await resolveLid(chatId);
+      if (!resolved) {
+        console.warn(`Could not resolve LID: ${chatId}`);
+        res.json({ status: "ignored" });
+        return;
+      }
+      chatId = resolved;
     }
 
     // 5. Build message text (handle media annotations)
